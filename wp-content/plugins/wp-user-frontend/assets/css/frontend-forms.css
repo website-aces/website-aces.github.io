@@ -54,7 +54,7 @@ body .wpuf-menu-item.active a {
 body .wpuf-loading {
   width: 16px;
   height: 16px;
-  background: url('https://https://website-aces.github.io/wp-content/plugins/wp-user-frontend/assets/images/wpspin_light.gif') no-repeat;
+  background: url('/wp-content/plugins/wp-user-frontend/assets/images/wpspin_light.gif') no-repeat;
   display: inline-block;
 }
 body .wpuf-loading.hide {
@@ -657,7 +657,7 @@ body .wpuf-coupon-info-wrap {
   margin-bottom: 20px;
 }
 body .wpuf-coupon-info-wrap .wpuf-coupon-field-spinner {
-  background: url('https://https://website-aces.github.io/wp-content/plugins/wp-user-frontend/assets/images/wpspin_light.gif') no-repeat right scroll rgba(0, 0, 0, 0);
+  background: url('/wp-content/plugins/wp-user-frontend/assets/images/wpspin_light.gif') no-repeat right scroll rgba(0, 0, 0, 0);
 }
 body .wpuf-coupon-info-wrap .wpuf-copon-show {
   background: #EEEEEE;
