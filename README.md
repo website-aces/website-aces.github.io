@@ -1,3 +1,3 @@
-# sharan7052.github.io
-acesgndec.me
-https://www.sharan7052.github.io
+# website-aces.github.io
+aces.gndec.ac.in
+https://www.wbsite-aces.github.io
