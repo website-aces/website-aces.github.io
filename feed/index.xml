@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Fri, 25 Feb 2022 16:59:34 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 26 Feb 2022 14:40:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,34 +28,47 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Calendar</title>
-		<link>/calendar/</link>
+		<title>Fee, WordPress for beginners</title>
+		<link>/fee-wordpress-for-beginners/</link>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
-		<pubDate>Fri, 25 Feb 2022 16:11:56 +0000</pubDate>
+		<pubDate>Sat, 26 Feb 2022 14:25:01 +0000</pubDate>
 				<category><![CDATA[Upcoming Events]]></category>
-		<category><![CDATA[Calendar]]></category>
-		<guid isPermaLink="false">/?p=2824</guid>
+		<guid isPermaLink="false">/?p=2985</guid>
 
-					<description><![CDATA[<p>Calendar, January-2022</p>
-<p>The post <a rel="nofollow" href="/calendar/">Calendar</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
+					<description><![CDATA[<p>Scan and Pay for &#8220;WordPress for Beginners&#8221; Workshop After Succesful Paying for Registration fees, Now Register Yourself</p>
+<p>The post <a rel="nofollow" href="/fee-wordpress-for-beginners/">Fee, WordPress for beginners</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2824" class="elementor elementor-2824" data-elementor-settings="[]">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2985" class="elementor elementor-2985" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-f1d94f3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f1d94f3" data-element_type="section">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-4e330a8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4e330a8" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f61e6d3" data-id="f61e6d3" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-eb32296" data-id="eb32296" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-d2ca058 elementor-widget elementor-widget-heading" data-id="d2ca058" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-fb68771 elementor-widget elementor-widget-heading" data-id="fb68771" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.5.5 - 03-02-2022 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><div class="elementor-heading-title elementor-size-default">Calendar, January-2022</div>		</div>
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><div class="elementor-heading-title elementor-size-default">Scan and Pay for "Wordpress for Beginners" Workshop</div>		</div>
 				</div>
-				<div class="elementor-element elementor-element-284ee65 elementor-align-center elementor-widget elementor-widget-embedpres_elementor" data-id="284ee65" data-element_type="widget" data-widget_type="embedpres_elementor.default">
+				<div class="elementor-element elementor-element-316eca2 elementor-widget elementor-widget-image" data-id="316eca2" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			        <div class="embedpress-elements-wrapper ">
-            <div class="ose-google-docs ose-uid-1a5974504bf1aeeb416bf2372057b10c ose-embedpress-responsive" style="width:800px; max-width:100%; height: auto; display:inline-block;"><iframe loading="lazy" src="https://docs.google.com/document/d/e/2PACX-1vS5kEpqYDvkdRva3r2oQnFYqzyyF6Y69UF-IC8oMtkUSMJWSjgqoTtqByZ8LeDIAw/pub?embedded=true" frameborder="0" width="800" height="850" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>        </div>
-        		</div>
+			<style>/*! elementor - v3.5.5 - 03-02-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-26-at-7.09.46-PM.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="WhatsApp Image 2022-02-26 at 7.09.46 PM">
+							<img width="682" height="683" src="/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-26-at-7.09.46-PM.jpeg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-26-at-7.09.46-PM.jpeg 682w, /wp-content/uploads/2022/02/WhatsApp-Image-2022-02-26-at-7.09.46-PM-300x300.jpeg 300w, /wp-content/uploads/2022/02/WhatsApp-Image-2022-02-26-at-7.09.46-PM-150x150.jpeg 150w" sizes="(max-width: 682px) 100vw, 682px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c6ab98c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c6ab98c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-acce5dc" data-id="acce5dc" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7f0ea73 elementor-widget elementor-widget-text-editor" data-id="7f0ea73" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.5 - 03-02-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>After Succesful Paying for Registration fees, Now <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://docs.google.com/forms/d/e/1FAIpQLSfzDklzLBmAaXY7egVAgVT0UxyKbPlj8FzLKbXOaX2LT5IN1Q/viewform"><strong>Register</strong></a></span> Yourself</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -63,7 +76,7 @@
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="/calendar/">Calendar</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
+		<p>The post <a rel="nofollow" href="/fee-wordpress-for-beginners/">Fee, WordPress for beginners</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -78,9 +91,234 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=2803</guid>
 
-					<description><![CDATA[<p>The post <a rel="nofollow" href="/wordpress-for-beginners/">WordPress for Beginners</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
+					<description><![CDATA[<p>WordPress for Beginners Want to learn web development but don&#8217;t know how to Code? Then ACES is here for You, We are giving you an opportunity to learn web development without any Coding Seminar Details: &#8211; This will be a 2 Day Hands-on Practice Workshop Date: &#8211; 3rd and 4th, March ,2022 Time: &#8211; 2:30pm [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/wordpress-for-beginners/">WordPress for Beginners</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="/wordpress-for-beginners/">WordPress for Beginners</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2803" class="elementor elementor-2803" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-c14bf50 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c14bf50" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5e6812a" data-id="5e6812a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-459a6f6 elementor-widget elementor-widget-heading" data-id="459a6f6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">WordPress for Beginners</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-259cabd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="259cabd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-668ef36" data-id="668ef36" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0e95a25 elementor-widget elementor-widget-heading" data-id="0e95a25" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Want to learn web development but don't know how to Code?</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3d3e303 elementor-widget elementor-widget-text-editor" data-id="3d3e303" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="text-align: center;">Then ACES is here for You, We are giving you an opportunity to learn web development <b>without any Coding</b></p>						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6d47296 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6d47296" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d6e8a51" data-id="d6e8a51" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2c710c7 elementor-widget elementor-widget-heading" data-id="2c710c7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Seminar Details: -</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f2cc1e2 elementor-widget elementor-widget-text-editor" data-id="f2cc1e2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>This will be a <b>2 Day Hands-on Practice Workshop</b></p>
+<p><b>Date: &#8211;</b> 3rd and 4th, March ,2022</p>
+<p><b>Time: &#8211;</b> 2:30pm &#8211; 4:00pm</p>
+<p><b>Venue: &#8211;</b> Mechanical Seminar Hall</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-640244c elementor-widget elementor-widget-heading" data-id="640244c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Who can Register: - </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ac5b6b8 elementor-widget elementor-widget-text-editor" data-id="ac5b6b8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>Students and Faculty</strong> of Guru Nanak Dev Engineering College of any Branch of any Year</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-88df4ca elementor-widget elementor-widget-heading" data-id="88df4ca" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">How to Regsiter: -</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f3f0de6 elementor-widget elementor-widget-text-editor" data-id="f3f0de6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<ol><li>Pay Registration fee on UPI id: &#8211; <strong>eyonb01@oksbi</strong></li><li>Register yourself From <a href="https://docs.google.com/forms/d/e/1FAIpQLSfzDklzLBmAaXY7egVAgVT0UxyKbPlj8FzLKbXOaX2LT5IN1Q/viewform"><b>Register now</b></a> button with the screenshot of the Payment.</li><li>Join WhatsApp Group from the Submission message of Google From for Further Updates</li></ol>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-afc0082" data-id="afc0082" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ded4090 elementor-widget elementor-widget-image" data-id="ded4090" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="/wp-content/uploads/2022/02/Wordpress-for-Begineers-2-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Wordpress-for-Begineers-2">
+							<img width="724" height="1024" src="/wp-content/uploads/2022/02/Wordpress-for-Begineers-2-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/02/Wordpress-for-Begineers-2-724x1024.jpg 724w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-212x300.jpg 212w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-768x1086.jpg 768w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1086x1536.jpg 1086w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1448x2048.jpg 1448w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-c2e7a20 elementor-align-center elementor-widget elementor-widget-elementskit-page-list" data-id="c2e7a20" data-element_type="widget" data-widget_type="elementskit-page-list.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="elementor-icon-list-items ">
+							<div class="elementor-icon-list-item   " >
+					<a  target=_blank rel=""  href="https://drive.google.com/u/0/uc?id=1Dqlzwhe1_a72BUG2fUzv69iVRuqPLndW&#038;export=download" class="elementor-repeater-item-73eb700 ekit_badge_left">
+						<div class="ekit_page_list_content">
+														<span class="elementor-icon-list-text">
+								<span class="ekit_page_list_title_title">Download Flyer</span>
+															</span>
+						</div>
+											</a>
+				</div>
+						</div>
+		</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3dfedce elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3dfedce" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-469c80d" data-id="469c80d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9849b0d elementor-align-center elementor-widget elementor-widget-elementskit-post-list" data-id="9849b0d" data-element_type="widget" data-widget_type="elementskit-post-list.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<ul class="elementor-icon-list-items ekit-post-list-wrapper ">
+						<li class="elementor-icon-list-item   ">
+				<a href="/fee-wordpress-for-beginners/" >
+										<div class="ekit_post_list_content_wraper">
+						
+						<span class="elementor-icon-list-text">1. Pay Registration Fees</span>
+
+											</div>
+				</a>
+			</li>
+				</ul>
+		</div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7af6d4f" data-id="7af6d4f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ecac50a elementor-align-center elementor-widget elementor-widget-elementskit-page-list" data-id="ecac50a" data-element_type="widget" data-widget_type="elementskit-page-list.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="elementor-icon-list-items ">
+							<div class="elementor-icon-list-item   " >
+					<a  target=_blank rel=""  href="https://docs.google.com/forms/d/e/1FAIpQLSfzDklzLBmAaXY7egVAgVT0UxyKbPlj8FzLKbXOaX2LT5IN1Q/viewform" class="elementor-repeater-item-73eb700 ekit_badge_left">
+						<div class="ekit_page_list_content">
+														<span class="elementor-icon-list-text">
+								<span class="ekit_page_list_title_title">2. Register Now</span>
+															</span>
+						</div>
+											</a>
+				</div>
+						</div>
+		</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f4725ea elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f4725ea" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b2a4e8e" data-id="b2a4e8e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c95b999 elementor-widget elementor-widget-heading" data-id="c95b999" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Pre-Requisites for Hands-on Workshop</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6e4f615 elementor-widget elementor-widget-text-editor" data-id="6e4f615" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<ol><li>You must have your <strong>Own laptop.</strong></li><li>You must have a stable <strong>Internet Connection</strong> (You can also use College wifi).</li><li>Download <a href="https://bitnami.com/stack/wordpress/installer"><strong>Bitmani wordpress</strong></a> for your Compatble system.</li><li>Make a account on <strong><a href="https://education.github.com/pack">github student developer pack</a></strong> with your College Email ID.</li><li>Download Essential Plugins<ol><li style="list-style-type: none;"><ol><li><a href="https://wordpress.org/plugins/elementor/"><strong>Elementor</strong></a></li><li><a href="https://wordpress.org/plugins/simply-static/"><strong>Simply Static</strong></a></li><li>Elementor Header &amp; Footer Builder</li><li>ElementsKit Lite</li><li>Envato Elements</li><li>Ocean Extra</li><li>Yoast SEO</li></ol></li></ol></li></ol>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a8859ad elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a8859ad" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fe913df" data-id="fe913df" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ef6e517 elementor-widget elementor-widget-heading" data-id="ef6e517" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Content of the Workshop</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-27a0606 elementor-widget elementor-widget-text-editor" data-id="27a0606" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>Day 1: &#8211; Installation and Intial Setup of Bitmani WordPress</strong></p><ol><li style="list-style-type: none;"><ol><li style="list-style-type: none;"><ol><li>Installing Bitnami WordPress</li><li>Seting up WordPress</li><li>Installing Theme (<strong><a href="https://oceanwp.org/">Ocean wp</a></strong>)</li><li>Installing <b>Plugins</b></li><li>Creating Pages</li></ol></li></ol></li></ol><p><strong>Day 2: &#8211; Designing the Website</strong></p><ol><li style="list-style-type: none;"><ol><li style="list-style-type: none;"><ol><li>Editing Header &amp; Footer menu</li><li>A brief Overview of Elements</li><li>Editing Home Page by adding Elements</li><li><b>Customising</b> the Content</li><li>Converting WordPress site to Static Site</li><li>Hosting wordpress site on <b>Github pages</b></li><li>Adding a Custom (<b>.me</b>) Domain for <b>Free </b>(needed github studetent developer pack account)</li></ol></li></ol></li></ol>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ca414b9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ca414b9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e244f6b" data-id="e244f6b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b4095d3 elementor-widget elementor-widget-heading" data-id="b4095d3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Outcomes of the Wordshop</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-66425fb elementor-widget elementor-widget-text-editor" data-id="66425fb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>You will be able to create, edit and  customize a wordpress site </p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-08c6951 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="08c6951" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-069c81d" data-id="069c81d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-89605f0 elementor-align-center elementor-widget elementor-widget-elementskit-post-list" data-id="89605f0" data-element_type="widget" data-widget_type="elementskit-post-list.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<ul class="elementor-icon-list-items ekit-post-list-wrapper ">
+						<li class="elementor-icon-list-item   ">
+				<a href="/fee-wordpress-for-beginners/" >
+										<div class="ekit_post_list_content_wraper">
+						
+						<span class="elementor-icon-list-text">1. Pay Registration Fees</span>
+
+											</div>
+				</a>
+			</li>
+				</ul>
+		</div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1914e72" data-id="1914e72" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-790459d elementor-align-center elementor-widget elementor-widget-elementskit-page-list" data-id="790459d" data-element_type="widget" data-widget_type="elementskit-page-list.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="elementor-icon-list-items ">
+							<div class="elementor-icon-list-item   " >
+					<a  target=_blank rel=""  href="https://docs.google.com/forms/d/e/1FAIpQLSfzDklzLBmAaXY7egVAgVT0UxyKbPlj8FzLKbXOaX2LT5IN1Q/viewform" class="elementor-repeater-item-73eb700 ekit_badge_left">
+						<div class="ekit_page_list_content">
+														<span class="elementor-icon-list-text">
+								<span class="ekit_page_list_title_title">2. Register Now</span>
+															</span>
+						</div>
+											</a>
+				</div>
+						</div>
+		</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		<p>The post <a rel="nofollow" href="/wordpress-for-beginners/">WordPress for Beginners</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -119,8 +357,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5dd062e elementor-widget elementor-widget-text-editor" data-id="5dd062e" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.5 - 03-02-2022 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><span style="font-weight: 400;">Association of civil engineering students (ACES) organized a Fun event named “</span><b>RANG DE BASANTI</b><span style="font-weight: 400;">”. It was an online reel submission event. This event was conducted on </span><b>5th &amp; 6th February 2022.</b></p><p><span style="font-weight: 400;">It had </span><b>45 registrations</b><span style="font-weight: 400;"> and </span><b>27 responses</b><span style="font-weight: 400;"> from participants.</span></p><p><b>Event Details &#8211;</b> <span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">It was a reel-making event. This event was categorized into 3 parts. The participant could make reels on any of the following categories &#8211;</span></p><ol><li aria-level="1"><b>Kite making: &#8211;</b><span style="font-weight: 400;"> They can make handmade Kites with their unique ideas and send us a video or picture of them.</span></li><li aria-level="1"><b>Food Mania: &#8211;</b><span style="font-weight: 400;"> They can make food as per theme and click its pictures or make a video while making it.</span></li><li aria-level="1"><b>Dress up: &#8211;</b><span style="font-weight: 400;"> They can dress up as per theme and can add their pictures in reels.</span></li></ol><p><b>The submissions were done via Google form. </b></p>						</div>
+							<p><span style="font-weight: 400;">Association of civil engineering students (ACES) organized a Fun event named “</span><b>RANG DE BASANTI</b><span style="font-weight: 400;">”. It was an online reel submission event. This event was conducted on </span><b>5th &amp; 6th February 2022.</b></p><p><span style="font-weight: 400;">It had </span><b>45 registrations</b><span style="font-weight: 400;"> and </span><b>27 responses</b><span style="font-weight: 400;"> from participants.</span></p><p><b>Event Details &#8211;</b> <span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">It was a reel-making event. This event was categorized into 3 parts. The participant could make reels on any of the following categories &#8211;</span></p><ol><li aria-level="1"><b>Kite making: &#8211;</b><span style="font-weight: 400;"> They can make handmade Kites with their unique ideas and send us a video or picture of them.</span></li><li aria-level="1"><b>Food Mania: &#8211;</b><span style="font-weight: 400;"> They can make food as per theme and click its pictures or make a video while making it.</span></li><li aria-level="1"><b>Dress up: &#8211;</b><span style="font-weight: 400;"> They can dress up as per theme and can add their pictures in reels.</span></li></ol><p><b>The submissions were done via Google form. </b></p>						</div>
 				</div>
 					</div>
 		</div>
@@ -128,8 +365,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-20f7dd7 elementor-widget elementor-widget-image" data-id="20f7dd7" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.5 - 03-02-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="724" height="1024" src="/wp-content/uploads/2022/02/Rang-de-basanti-flyer-min-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/02/Rang-de-basanti-flyer-min-724x1024.jpg 724w, /wp-content/uploads/2022/02/Rang-de-basanti-flyer-min-212x300.jpg 212w, /wp-content/uploads/2022/02/Rang-de-basanti-flyer-min-768x1086.jpg 768w, /wp-content/uploads/2022/02/Rang-de-basanti-flyer-min-1086x1536.jpg 1086w, /wp-content/uploads/2022/02/Rang-de-basanti-flyer-min-1448x2048.jpg 1448w, /wp-content/uploads/2022/02/Rang-de-basanti-flyer-min-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
+															<img width="724" height="1024" src="/wp-content/uploads/2022/02/Rang-de-basanti-flyer-min-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/02/Rang-de-basanti-flyer-min-724x1024.jpg 724w, /wp-content/uploads/2022/02/Rang-de-basanti-flyer-min-212x300.jpg 212w, /wp-content/uploads/2022/02/Rang-de-basanti-flyer-min-768x1086.jpg 768w, /wp-content/uploads/2022/02/Rang-de-basanti-flyer-min-1086x1536.jpg 1086w, /wp-content/uploads/2022/02/Rang-de-basanti-flyer-min-1448x2048.jpg 1448w, /wp-content/uploads/2022/02/Rang-de-basanti-flyer-min-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -356,336 +592,41 @@
 		
 			</item>
 		<item>
-		<title>Website Development Team</title>
-		<link>/website-development-team/</link>
+		<title>Calendar</title>
+		<link>/calendar/</link>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
-		<pubDate>Mon, 31 Jan 2022 13:22:31 +0000</pubDate>
-				<category><![CDATA[team]]></category>
-		<guid isPermaLink="false">/?p=2516</guid>
+		<pubDate>Mon, 31 Jan 2022 16:11:56 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Calendar]]></category>
+		<guid isPermaLink="false">/?p=2824</guid>
 
-					<description><![CDATA[<p>Website Devlopmet Team Sharanjit Singh Head Developer Sharanjit Singh Head Developer 1/4 Architect + 1/4 Civil Engineer + 1/4 Entrepreneur + 1/4 Yet to found 😉 linktr.ee/Sharanjitsyan Phone:9465329286 Email:sharanjitsinghsyan@gmail.com Sarabjeet Kaur Content writer Sarabjeet Kaur Content writer A small river named Duden flows by their place and supplies it with the necessary Email:kaurrsarabjeet@gmail.com Ritik Dogra [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/website-development-team/">Website Development Team</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
+					<description><![CDATA[<p>Calendar, January-2022</p>
+<p>The post <a rel="nofollow" href="/calendar/">Calendar</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2516" class="elementor elementor-2516" data-elementor-settings="[]">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2824" class="elementor elementor-2824" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-b396640 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b396640" data-element_type="section">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-f1d94f3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f1d94f3" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-083f837" data-id="083f837" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f61e6d3" data-id="f61e6d3" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-72fcd42 elementor-widget elementor-widget-heading" data-id="72fcd42" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-d2ca058 elementor-widget elementor-widget-heading" data-id="d2ca058" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default">Website Devlopmet Team</div>		</div>
+			<div class="elementor-heading-title elementor-size-default">Calendar, January-2022</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-284ee65 elementor-align-center elementor-widget elementor-widget-embedpres_elementor" data-id="284ee65" data-element_type="widget" data-widget_type="embedpres_elementor.default">
+				<div class="elementor-widget-container">
+			        <div class="embedpress-elements-wrapper ">
+            <div class="ose-google-docs ose-uid-1a5974504bf1aeeb416bf2372057b10c ose-embedpress-responsive" style="width:800px; max-width:100%; height: auto; display:inline-block;"><iframe loading="lazy" src="https://docs.google.com/document/d/e/2PACX-1vS5kEpqYDvkdRva3r2oQnFYqzyyF6Y69UF-IC8oMtkUSMJWSjgqoTtqByZ8LeDIAw/pub?embedded=true" frameborder="0" width="800" height="850" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>        </div>
+        		</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-4c33716 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4c33716" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b511454" data-id="b511454" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-a4e96a0 elementor-widget elementor-widget-elementskit-team" data-id="a4e96a0" data-element_type="widget" data-widget_type="elementskit-team.default">
-				<div class="elementor-widget-container">
-			<div class="ekit-wid-con">								
-		<div class="profile-card elementor-animation-shrink text-center ekit-team-style-default">
-							<a href="javascript:void(0)" data-mfp-src="#ekit_team_modal_a4e96a0" class="ekit-team-popup">
-						
-				<div class="profile-header ekit-team-img ekit-img-overlay ekit-team-img-block"  data-toggle="modal" data-target="ekit_team_modal_#a4e96a0" >
-					<img loading="lazy" width="2270" height="2270" src="/wp-content/uploads/2021/09/Sharanjit-Singh.jpg" class="attachment-full size-full" alt="" />				</div><!-- .profile-header END -->
-							</a>
-						
-
-				<div class="profile-body">
-					
-					<h2 class="profile-title">
-											<a  href="javascript:void(0)" data-mfp-src="#ekit_team_modal_a4e96a0" class="ekit-team-popup">
-						Sharanjit Singh						</a>
-											</h2>
-					<p class="profile-designation">Head Developer</p>
-									</div><!-- .profile-body END -->
-
-									<div class="profile-footer">
-						<ul class="ekit-team-social-list">
-			<li class="elementor-repeater-item-754874c">
-			<a href="mailto:sharanjitsinghsyan@gmail.com">
-				<i aria-hidden="true" class="icon icon-email"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-5ab9556">
-			<a href="https://www.instagram.com/sharanjitsinghsyan/" target="_blank">
-				<i aria-hidden="true" class="icon icon-instagram-1"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-1a248c0">
-			<a href="https://github.com/sharan7052">
-				<i aria-hidden="true" class="fab fa-github"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-50f8fb7">
-			<a href="https://www.linkedin.com/in/sharanjit-singh-198328200/">
-				<i aria-hidden="true" class="icon icon-linkedin"></i>			</a>
-		</li>
-	</ul>
-					</div>
-									</div>
-							
-			
-					<div class="zoom-anim-dialog mfp-hide elementskit-team-popup" id="ekit_team_modal_a4e96a0" tabindex="-1" role="dialog" aria-hidden="true">
-				<div class="modal-dialog modal-dialog-centered" role="document">
-					<div class="modal-content">
-						<button type="button" class="ekit-team-modal-close">
-							<i aria-hidden="true" class="fas fa-times"></i>						</button>
-
-						<div class="modal-body">
-															<div class="ekit-team-modal-img">
-									<img loading="lazy" width="2270" height="2270" src="/wp-content/uploads/2021/09/Sharanjit-Singh.jpg" class="attachment-full size-full" alt="" />								</div>
-							
-							<div class="ekit-team-modal-info has-img">
-								<h2 class="ekit-team-modal-title">Sharanjit Singh</h2>
-								<p class="ekit-team-modal-position">Head Developer</p>
-								
-								<div class="ekit-team-modal-content">
-									1/4 Architect + 1/4 Civil Engineer + 1/4 Entrepreneur + 1/4 Yet to found <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" />
-linktr.ee/Sharanjitsyan								</div>
-
-																	<ul class="ekit-team-modal-list">
-																					<li><strong>Phone:</strong><a href="tel:9465329286">9465329286</a></li>
-										
-																					<li><strong>Email:</strong><a href="mailto:sharanjitsinghsyan@gmail.com">sharanjitsinghsyan@gmail.com</a></li>
-																			</ul>
-																
-								<ul class="ekit-team-social-list">
-			<li class="elementor-repeater-item-754874c">
-			<a href="mailto:sharanjitsinghsyan@gmail.com">
-				<i aria-hidden="true" class="icon icon-email"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-5ab9556">
-			<a href="https://www.instagram.com/sharanjitsinghsyan/" target="_blank">
-				<i aria-hidden="true" class="icon icon-instagram-1"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-1a248c0">
-			<a href="https://github.com/sharan7052">
-				<i aria-hidden="true" class="fab fa-github"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-50f8fb7">
-			<a href="https://www.linkedin.com/in/sharanjit-singh-198328200/">
-				<i aria-hidden="true" class="icon icon-linkedin"></i>			</a>
-		</li>
-	</ul>
-							</div>
 						</div>
 					</div>
-				</div>
-			</div>
-				</div>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-d4e8cb0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d4e8cb0" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-d078ca2" data-id="d078ca2" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9f1a973" data-id="9f1a973" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-0f06267 elementor-widget elementor-widget-elementskit-team" data-id="0f06267" data-element_type="widget" data-widget_type="elementskit-team.default">
-				<div class="elementor-widget-container">
-			<div class="ekit-wid-con">								
-		<div class="profile-card elementor-animation-shrink text-center ekit-team-style-default">
-							<a href="javascript:void(0)" data-mfp-src="#ekit_team_modal_0f06267" class="ekit-team-popup">
-						
-				<div class="profile-header ekit-team-img ekit-img-overlay ekit-team-img-block"  data-toggle="modal" data-target="ekit_team_modal_#0f06267" >
-					<img loading="lazy" width="1024" height="1024" src="/wp-content/uploads/2021/09/IMG_20220217_174502-1024x1024.jpg" class="attachment-large size-large" alt="" />				</div><!-- .profile-header END -->
-							</a>
-						
-
-				<div class="profile-body">
-					
-					<h2 class="profile-title">
-											<a  href="javascript:void(0)" data-mfp-src="#ekit_team_modal_0f06267" class="ekit-team-popup">
-						Sarabjeet Kaur						</a>
-											</h2>
-					<p class="profile-designation">Content writer</p>
-									</div><!-- .profile-body END -->
-
-									<div class="profile-footer">
-						<ul class="ekit-team-social-list">
-			<li class="elementor-repeater-item-754874c">
-			<a href="mailto:kaurrsarabjeet@gmail.com">
-				<i aria-hidden="true" class="icon icon-email"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-5ab9556">
-			<a href="#" target="_blank">
-				<i aria-hidden="true" class="icon icon-instagram-1"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-1a248c0">
-			<a href="#">
-				<i aria-hidden="true" class="fab fa-github"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-06939f4">
-			<a href="https://www.linkedin.com/in/sarabjeet-kaur-9b8601198/">
-				<i aria-hidden="true" class="icon icon-linkedin"></i>			</a>
-		</li>
-	</ul>
-					</div>
-									</div>
-							
-			
-					<div class="zoom-anim-dialog mfp-hide elementskit-team-popup" id="ekit_team_modal_0f06267" tabindex="-1" role="dialog" aria-hidden="true">
-				<div class="modal-dialog modal-dialog-centered" role="document">
-					<div class="modal-content">
-						<button type="button" class="ekit-team-modal-close">
-							<i aria-hidden="true" class="fas fa-times"></i>						</button>
-
-						<div class="modal-body">
-															<div class="ekit-team-modal-img">
-									<img loading="lazy" width="1024" height="1024" src="/wp-content/uploads/2021/09/IMG_20220217_174502-1024x1024.jpg" class="attachment-large size-large" alt="" />								</div>
-							
-							<div class="ekit-team-modal-info has-img">
-								<h2 class="ekit-team-modal-title">Sarabjeet Kaur</h2>
-								<p class="ekit-team-modal-position">Content writer</p>
-								
-								<div class="ekit-team-modal-content">
-									A small river named Duden flows by their place and supplies it with the necessary								</div>
-
-																	<ul class="ekit-team-modal-list">
-										
-																					<li><strong>Email:</strong><a href="mailto:kaurrsarabjeet@gmail.com">kaurrsarabjeet@gmail.com</a></li>
-																			</ul>
-																
-								<ul class="ekit-team-social-list">
-			<li class="elementor-repeater-item-754874c">
-			<a href="mailto:kaurrsarabjeet@gmail.com">
-				<i aria-hidden="true" class="icon icon-email"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-5ab9556">
-			<a href="#" target="_blank">
-				<i aria-hidden="true" class="icon icon-instagram-1"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-1a248c0">
-			<a href="#">
-				<i aria-hidden="true" class="fab fa-github"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-06939f4">
-			<a href="https://www.linkedin.com/in/sarabjeet-kaur-9b8601198/">
-				<i aria-hidden="true" class="icon icon-linkedin"></i>			</a>
-		</li>
-	</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-				</div>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-bbd4e1e" data-id="bbd4e1e" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-4944921 elementor-widget elementor-widget-elementskit-team" data-id="4944921" data-element_type="widget" data-widget_type="elementskit-team.default">
-				<div class="elementor-widget-container">
-			<div class="ekit-wid-con">								
-		<div class="profile-card elementor-animation-shrink text-center ekit-team-style-default">
-							<a href="javascript:void(0)" data-mfp-src="#ekit_team_modal_4944921" class="ekit-team-popup">
-						
-				<div class="profile-header ekit-team-img ekit-img-overlay ekit-team-img-block"  data-toggle="modal" data-target="ekit_team_modal_#4944921" >
-					<img loading="lazy" width="956" height="956" src="/wp-content/uploads/2021/09/Ritik-Dogra.jpg" class="attachment-large size-large" alt="" />				</div><!-- .profile-header END -->
-							</a>
-						
-
-				<div class="profile-body">
-					
-					<h2 class="profile-title">
-											<a  href="javascript:void(0)" data-mfp-src="#ekit_team_modal_4944921" class="ekit-team-popup">
-						Ritik Dogra						</a>
-											</h2>
-					<p class="profile-designation">Advisor</p>
-									</div><!-- .profile-body END -->
-
-									<div class="profile-footer">
-						<ul class="ekit-team-social-list">
-			<li class="elementor-repeater-item-754874c">
-			<a href="mailto:dograritik1@gmail.com">
-				<i aria-hidden="true" class="icon icon-email"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-5ab9556">
-			<a href="https://instagram.com/ritikdogra01?utm_medium=copy_link" target="_blank">
-				<i aria-hidden="true" class="icon icon-instagram-1"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-1a248c0">
-			<a href="https://mobile.twitter.com/ritikdogra01">
-				<i aria-hidden="true" class="fab fa-twitter"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-7cf266b">
-			<a href="https://www.linkedin.com/in/ritik-dogra-544584208">
-				<i aria-hidden="true" class="icon icon-linkedin"></i>			</a>
-		</li>
-	</ul>
-					</div>
-									</div>
-							
-			
-					<div class="zoom-anim-dialog mfp-hide elementskit-team-popup" id="ekit_team_modal_4944921" tabindex="-1" role="dialog" aria-hidden="true">
-				<div class="modal-dialog modal-dialog-centered" role="document">
-					<div class="modal-content">
-						<button type="button" class="ekit-team-modal-close">
-							<i aria-hidden="true" class="fas fa-times"></i>						</button>
-
-						<div class="modal-body">
-															<div class="ekit-team-modal-img">
-									<img loading="lazy" width="956" height="956" src="/wp-content/uploads/2021/09/Ritik-Dogra.jpg" class="attachment-large size-large" alt="" />								</div>
-							
-							<div class="ekit-team-modal-info has-img">
-								<h2 class="ekit-team-modal-title">Ritik Dogra</h2>
-								<p class="ekit-team-modal-position">Advisor</p>
-								
-								<div class="ekit-team-modal-content">
-									I'm an aspiring Civil Engineer who has an unimaginable love for movies. Now without taking much of your time I would like to quote a dialogue that has always motivated me.<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f60a.png" alt="😊" class="wp-smiley" style="height: 1em; max-height: 1em;" />
-“It Ain’t About How Hard You Hit, It’s About How Hard You Can Get Hit And Keep Moving Forward.”- Rocky Balboa								</div>
-
-																	<ul class="ekit-team-modal-list">
-																					<li><strong>Phone:</strong><a href="tel:9877122721">9877122721</a></li>
-										
-																					<li><strong>Email:</strong><a href="mailto:dograritik1@gmail.com">dograritik1@gmail.com</a></li>
-																			</ul>
-																
-								<ul class="ekit-team-social-list">
-			<li class="elementor-repeater-item-754874c">
-			<a href="mailto:dograritik1@gmail.com">
-				<i aria-hidden="true" class="icon icon-email"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-5ab9556">
-			<a href="https://instagram.com/ritikdogra01?utm_medium=copy_link" target="_blank">
-				<i aria-hidden="true" class="icon icon-instagram-1"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-1a248c0">
-			<a href="https://mobile.twitter.com/ritikdogra01">
-				<i aria-hidden="true" class="fab fa-twitter"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-7cf266b">
-			<a href="https://www.linkedin.com/in/ritik-dogra-544584208">
-				<i aria-hidden="true" class="icon icon-linkedin"></i>			</a>
-		</li>
-	</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-				</div>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0278524" data-id="0278524" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-							</div>
-		</section>
-						</div>
-					</div>
-		<p>The post <a rel="nofollow" href="/website-development-team/">Website Development Team</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
+		<p>The post <a rel="nofollow" href="/calendar/">Calendar</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
 		
