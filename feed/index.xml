@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Sat, 26 Feb 2022 14:40:24 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 27 Feb 2022 04:30:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,7 +33,7 @@
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Sat, 26 Feb 2022 14:25:01 +0000</pubDate>
-				<category><![CDATA[Upcoming Events]]></category>
+				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=2985</guid>
 
 					<description><![CDATA[<p>Scan and Pay for &#8220;WordPress for Beginners&#8221; Workshop After Succesful Paying for Registration fees, Now Register Yourself</p>
