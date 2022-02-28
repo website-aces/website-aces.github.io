@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Mon, 28 Feb 2022 10:20:13 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 28 Feb 2022 11:58:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -154,7 +154,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f7ca016 elementor-widget elementor-widget-image" data-id="f7ca016" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="724" height="1024" src="/wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1-724x1024.jpg 724w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1-212x300.jpg 212w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1-768x1086.jpg 768w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1-1086x1536.jpg 1086w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1-1448x2048.jpg 1448w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
+															<img width="724" height="1024" src="/wp-content/uploads/2022/02/Wordpress-for-Begineers-2-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/02/Wordpress-for-Begineers-2-724x1024.jpg 724w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-212x300.jpg 212w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-768x1086.jpg 768w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1086x1536.jpg 1086w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1448x2048.jpg 1448w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -164,7 +164,7 @@
 				<div class="elementor-widget-container">
 			<div class="ekit-wid-con" >		<div class="elementor-icon-list-items ">
 							<div class="elementor-icon-list-item   " >
-					<a  target=_blank rel=""  href="https://drive.google.com/u/0/uc?id=1EDW9LvIyPY2O3RMxyJGGWzr9YyqwElSY&#038;export=download" class="elementor-repeater-item-73eb700 ekit_badge_left">
+					<a  target=_blank rel=""  href="https://drive.google.com/u/0/uc?id=1EOjSB_b0Sgp59qJSuZwBnPuC4e_a0GKy&#038;export=download" class="elementor-repeater-item-73eb700 ekit_badge_left">
 						<div class="ekit_page_list_content">
 														<span class="elementor-icon-list-text">
 								<span class="ekit_page_list_title_title">Download Flyer</span>
@@ -231,7 +231,7 @@
 				</div>
 				<div class="elementor-element elementor-element-6e4f615 elementor-widget elementor-widget-text-editor" data-id="6e4f615" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<ol><li>You must have your <strong>own laptop.</strong></li><li>You must have a stable <strong>Internet Connection</strong> (You can also use College wifi).</li><li>Download <a href="https://bitnami.com/stack/wordpress/installer"><strong>Bitmani WordPress</strong></a> for your Compatible system.</li><li>Make an account on <strong><a href="https://education.github.com/pack">GitHub student developer pack</a></strong> with your College Email ID.</li><li>Download Essential Plugins<ol><li style="list-style-type: none;"><ol><li><a href="https://wordpress.org/plugins/elementor/"><strong>Elementor</strong></a></li><li><a href="https://wordpress.org/plugins/simply-static/"><strong>Simply Static</strong></a></li><li>Elementor Header &amp; Footer Builder</li><li>ElementsKit Lite</li><li>Envato Elements</li><li>Ocean Extra</li><li>Yoast SEO</li></ol></li></ol></li></ol>						</div>
+							<ol><li>You must have your <strong>own laptop </strong>(and if you don&#8217;t have your own Laptop inform us earlier in the whsatapp group).</li><li>You must have a stable <strong>Internet Connection</strong> (You can also use College wifi).</li><li>Download <a href="https://bitnami.com/stack/wordpress/installer"><strong>Bitmani WordPress</strong></a> for your Compatible system.</li><li>Make an account on <strong><a href="https://education.github.com/pack">GitHub student developer pack</a></strong> with your College Email ID.</li><li>Download Essential Plugins<ol><li style="list-style-type: none;"><ol><li><a href="https://wordpress.org/plugins/elementor/"><strong>Elementor</strong></a></li><li><a href="https://wordpress.org/plugins/simply-static/"><strong>Simply Static</strong></a></li><li>Elementor Header &amp; Footer Builder</li><li>ElementsKit Lite</li><li>Envato Elements</li><li>Ocean Extra</li><li>Yoast SEO</li></ol></li></ol></li></ol>						</div>
 				</div>
 					</div>
 		</div>
