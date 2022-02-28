@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Sun, 27 Feb 2022 07:59:52 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 28 Feb 2022 10:20:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -130,10 +130,7 @@
 				</div>
 				<div class="elementor-element elementor-element-f2cc1e2 elementor-widget elementor-widget-text-editor" data-id="f2cc1e2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>This will be a <b>2 Day Hands-on Practice Workshop</b></p>
-<p><b>Date: &#8211;</b> 3rd and 4th, March ,2022</p>
-<p><b>Time: &#8211;</b> 2:30pm &#8211; 4:00pm</p>
-<p><b>Venue: &#8211;</b> Mechanical Seminar Hall</p>						</div>
+							<p>This will be a <b>2 Day Hands-on Practice Workshop</b></p><p><b>Date: &#8211;</b> 3rd and 4th, March ,2022</p><p><b>Time: &#8211;</b> 2:30pm &#8211; 4:00pm</p><p><b>Venue: &#8211;</b> TCC Seminar Hall</p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-640244c elementor-widget elementor-widget-heading" data-id="640244c" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -155,7 +152,7 @@
 		</div>
 				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-afc0082" data-id="afc0082" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-ded4090 elementor-widget elementor-widget-image" data-id="ded4090" data-element_type="widget" data-widget_type="image.default">
+								<div class="elementor-element elementor-element-f7ca016 elementor-widget elementor-widget-image" data-id="f7ca016" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 															<img width="724" height="1024" src="/wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1-724x1024.jpg 724w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1-212x300.jpg 212w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1-768x1086.jpg 768w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1-1086x1536.jpg 1086w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1-1448x2048.jpg 1448w, /wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
 				</div>
@@ -167,7 +164,7 @@
 				<div class="elementor-widget-container">
 			<div class="ekit-wid-con" >		<div class="elementor-icon-list-items ">
 							<div class="elementor-icon-list-item   " >
-					<a  target=_blank rel=""  href="https://drive.google.com/u/0/uc?id=1_83SrENg6I5StWzmX_3eqkG-ERkfxWUm&#038;export=download" class="elementor-repeater-item-73eb700 ekit_badge_left">
+					<a  target=_blank rel=""  href="https://drive.google.com/u/0/uc?id=1EDW9LvIyPY2O3RMxyJGGWzr9YyqwElSY&#038;export=download" class="elementor-repeater-item-73eb700 ekit_badge_left">
 						<div class="ekit_page_list_content">
 														<span class="elementor-icon-list-text">
 								<span class="ekit_page_list_title_title">Download Flyer</span>
@@ -234,7 +231,7 @@
 				</div>
 				<div class="elementor-element elementor-element-6e4f615 elementor-widget elementor-widget-text-editor" data-id="6e4f615" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<ol><li>You must have your <strong>Own laptop.</strong></li><li>You must have a stable <strong>Internet Connection</strong> (You can also use College wifi).</li><li>Download <a href="https://bitnami.com/stack/wordpress/installer"><strong>Bitmani wordpress</strong></a> for your Compatble system.</li><li>Make a account on <strong><a href="https://education.github.com/pack">github student developer pack</a></strong> with your College Email ID.</li><li>Download Essential Plugins<ol><li style="list-style-type: none;"><ol><li><a href="https://wordpress.org/plugins/elementor/"><strong>Elementor</strong></a></li><li><a href="https://wordpress.org/plugins/simply-static/"><strong>Simply Static</strong></a></li><li>Elementor Header &amp; Footer Builder</li><li>ElementsKit Lite</li><li>Envato Elements</li><li>Ocean Extra</li><li>Yoast SEO</li></ol></li></ol></li></ol>						</div>
+							<ol><li>You must have your <strong>own laptop.</strong></li><li>You must have a stable <strong>Internet Connection</strong> (You can also use College wifi).</li><li>Download <a href="https://bitnami.com/stack/wordpress/installer"><strong>Bitmani WordPress</strong></a> for your Compatible system.</li><li>Make an account on <strong><a href="https://education.github.com/pack">GitHub student developer pack</a></strong> with your College Email ID.</li><li>Download Essential Plugins<ol><li style="list-style-type: none;"><ol><li><a href="https://wordpress.org/plugins/elementor/"><strong>Elementor</strong></a></li><li><a href="https://wordpress.org/plugins/simply-static/"><strong>Simply Static</strong></a></li><li>Elementor Header &amp; Footer Builder</li><li>ElementsKit Lite</li><li>Envato Elements</li><li>Ocean Extra</li><li>Yoast SEO</li></ol></li></ol></li></ol>						</div>
 				</div>
 					</div>
 		</div>
