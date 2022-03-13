@@ -11,11 +11,11 @@
 	<atom:link href="http://127.0.0.1/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://aces.gndec.ac.in</link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Sun, 06 Mar 2022 17:40:03 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 13 Mar 2022 08:40:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 </channel>
 </rss>
