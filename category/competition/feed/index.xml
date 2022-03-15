@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/category/competition/feed/" rel="self" type="application/rss+xml" />
 	<link>https://aces.gndec.ac.in</link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Mon, 14 Mar 2022 12:56:07 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Mar 2022 15:02:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -96,9 +96,9 @@
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-88fe56f" data-id="88fe56f" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-1612245 elementor-invisible elementor-widget elementor-widget-heading" data-id="1612245" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;zoomIn&quot;}" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-1612245 elementor-widget elementor-widget-heading" data-id="1612245" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><a href="https://forms.gle/2giUuXxWQkoWj1BQ6" target="_blank">Register Now</a></h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Registration Closed</h2>		</div>
 				</div>
 					</div>
 		</div>
