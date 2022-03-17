@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/category/2021-2022/feed/" rel="self" type="application/rss+xml" />
 	<link>https://aces.gndec.ac.in</link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Tue, 15 Mar 2022 15:02:42 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Mar 2022 07:31:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -167,7 +167,19 @@
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b2a4e8e" data-id="b2a4e8e" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c95b999 elementor-widget elementor-widget-heading" data-id="c95b999" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-cb9c746 elementor-widget elementor-widget-heading" data-id="cb9c746" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default"><a href="https://drive.google.com/drive/u/0/folders/1ILE9jT1BbRIVCNmYKPu2dKPYuQj1SEua" target="_blank">Download Certificates</a></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ff63e80 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ff63e80" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a6eec16" data-id="a6eec16" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2c8f08e elementor-widget elementor-widget-heading" data-id="2c8f08e" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<div class="elementor-heading-title elementor-size-default">Glimpse of the Workshop</div>		</div>
 				</div>
@@ -324,9 +336,21 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d27e613 elementor-widget elementor-widget-heading" data-id="d27e613" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default"><a href="https://drive.google.com/drive/u/0/folders/1TJv8k_-T7k8qnePgZX2YhzpT6syr6s8v" target="_blank">Download Certificates</a></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-cc4300b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cc4300b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-970a934" data-id="970a934" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3453dcd elementor-widget elementor-widget-heading" data-id="3453dcd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
 			<div class="elementor-heading-title elementor-size-default">Best Entries</div>		</div>
 				</div>
-				<div class="elementor-element elementor-element-c031e12 elementor-widget elementor-widget-text-editor" data-id="c031e12" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-f3401ca elementor-widget elementor-widget-text-editor" data-id="f3401ca" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 							<table width="387"><tbody><tr><td width="102"><b>Category</b></td><td width="111"><b>Name</b></td><td width="62"><b>Branch</b></td><td width="43"><b>Year</b></td><td width="69"><b>URN</b></td></tr><tr><td width="102"><b>Kite making</b></td><td width="111">Sakshi Kumari</td><td width="62">Civil</td><td width="43">D1</td><td width="69">2104050</td></tr><tr><td width="102"><b>Dress up</b></td><td width="111">Nisha Goyal</td><td width="62">ECE</td><td width="43">D2</td><td width="69">2032005</td></tr><tr><td width="102"><b>Food mania</b></td><td width="111">Raj Gupta</td><td width="62">Civil</td><td width="43">D1</td><td width="69">2114047</td></tr></tbody></table>						</div>
 				</div>

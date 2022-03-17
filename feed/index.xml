@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://aces.gndec.ac.in</link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Tue, 15 Mar 2022 15:02:42 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Mar 2022 07:29:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -322,7 +322,19 @@
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b2a4e8e" data-id="b2a4e8e" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c95b999 elementor-widget elementor-widget-heading" data-id="c95b999" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-cb9c746 elementor-widget elementor-widget-heading" data-id="cb9c746" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default"><a href="https://drive.google.com/drive/u/0/folders/1ILE9jT1BbRIVCNmYKPu2dKPYuQj1SEua" target="_blank">Download Certificates</a></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ff63e80 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ff63e80" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a6eec16" data-id="a6eec16" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2c8f08e elementor-widget elementor-widget-heading" data-id="2c8f08e" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<div class="elementor-heading-title elementor-size-default">Glimpse of the Workshop</div>		</div>
 				</div>
