@@ -10,7 +10,7 @@
 <channel>
 	<title>Association of Civil Engineering Students</title>
 	<atom:link href="http://127.0.0.1/wordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>https://aces.gndec.ac.in</link>
+	<link></link>
 	<description>Association of Civil Engineering Students</description>
 	<lastBuildDate>Fri, 18 Mar 2022 03:57:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
-	<url>https://aces.gndec.ac.in/wp-content/uploads/2022/01/cropped-ACES-PNG-32x32.png</url>
+	<url>/wp-content/uploads/2022/01/cropped-ACES-PNG-32x32.png</url>
 	<title>Association of Civil Engineering Students</title>
-	<link>https://aces.gndec.ac.in</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Holi-2022</title>
-		<link>https://aces.gndec.ac.in/holi-2022/</link>
+		<link>/holi-2022/</link>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Fri, 18 Mar 2022 03:40:34 +0000</pubDate>
 				<category><![CDATA[wishes]]></category>
-		<guid isPermaLink="false">https://aces.gndec.ac.in/?p=3618</guid>
+		<guid isPermaLink="false">/?p=3618</guid>
 
 					<description><![CDATA[<p>Happy Holi &#8211; 2022</p>
-<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/holi-2022/">Holi-2022</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+<p>The post <a rel="nofollow" href="/holi-2022/">Holi-2022</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3618" class="elementor elementor-3618" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
@@ -53,7 +53,7 @@
 				<div class="elementor-element elementor-element-bb148d6 elementor-widget elementor-widget-image" data-id="bb148d6" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.5.3 - 28-12-2021 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="724" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-724x1024.jpg 724w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-212x300.jpg 212w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-768x1086.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-1086x1536.jpg 1086w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-1448x2048.jpg 1448w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="724" height="1024" src="/wp-content/uploads/2022/03/Holi-2022-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/03/Holi-2022-724x1024.jpg 724w, /wp-content/uploads/2022/03/Holi-2022-212x300.jpg 212w, /wp-content/uploads/2022/03/Holi-2022-768x1086.jpg 768w, /wp-content/uploads/2022/03/Holi-2022-1086x1536.jpg 1086w, /wp-content/uploads/2022/03/Holi-2022-1448x2048.jpg 1448w, /wp-content/uploads/2022/03/Holi-2022-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -61,7 +61,7 @@
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/holi-2022/">Holi-2022</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+		<p>The post <a rel="nofollow" href="/holi-2022/">Holi-2022</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -69,17 +69,17 @@
 			</item>
 		<item>
 		<title>Dumbsharas</title>
-		<link>https://aces.gndec.ac.in/dumbsharas/</link>
+		<link>/dumbsharas/</link>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Sun, 13 Mar 2022 08:05:12 +0000</pubDate>
 				<category><![CDATA[2021-2022]]></category>
 		<category><![CDATA[Competition]]></category>
 		<category><![CDATA[Fun events]]></category>
-		<guid isPermaLink="false">https://aces.gndec.ac.in/?p=3477</guid>
+		<guid isPermaLink="false">/?p=3477</guid>
 
 					<description><![CDATA[<p>Dumbsharas Event Details: &#8211; Event Details: &#8211;Date: &#8211; 16th, March, 2022Time: &#8211; 3PM onwardsVenue: &#8211; G2 Participants will have to come in a Team of 2-4 members. Participation E-Certificates will be provided Rules: &#8211; There has to be 2 minimum and a maximum of 4 members in a team. The performance has to be silent [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/dumbsharas/">Dumbsharas</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+<p>The post <a rel="nofollow" href="/dumbsharas/">Dumbsharas</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3477" class="elementor elementor-3477" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
@@ -133,7 +133,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-71fb1b1 elementor-widget elementor-widget-image" data-id="71fb1b1" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="724" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-724x1024.jpg 724w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-212x300.jpg 212w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-768x1086.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-1086x1536.jpg 1086w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-1448x2048.jpg 1448w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
+															<img width="724" height="1024" src="/wp-content/uploads/2022/03/Dumbsharaj-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/03/Dumbsharaj-724x1024.jpg 724w, /wp-content/uploads/2022/03/Dumbsharaj-212x300.jpg 212w, /wp-content/uploads/2022/03/Dumbsharaj-768x1086.jpg 768w, /wp-content/uploads/2022/03/Dumbsharaj-1086x1536.jpg 1086w, /wp-content/uploads/2022/03/Dumbsharaj-1448x2048.jpg 1448w, /wp-content/uploads/2022/03/Dumbsharaj-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -169,7 +169,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-9565097 elementor-widget elementor-widget-image" data-id="9565097" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1024" height="768" src="https://aces.gndec.ac.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-1-1024x768.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-1-1024x768.jpeg 1024w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-1-300x225.jpeg 300w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-1-768x576.jpeg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-1-1536x1153.jpeg 1536w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-1.jpeg 1599w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+															<img width="1024" height="768" src="/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-1-1024x768.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-1-1024x768.jpeg 1024w, /wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-1-300x225.jpeg 300w, /wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-1-768x576.jpeg 768w, /wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-1-1536x1153.jpeg 1536w, /wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-1.jpeg 1599w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -177,7 +177,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-9d5d16b elementor-widget elementor-widget-image" data-id="9d5d16b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1024" height="768" src="https://aces.gndec.ac.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-1024x768.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-1024x768.jpeg 1024w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-300x225.jpeg 300w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-768x576.jpeg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-1536x1153.jpeg 1536w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM.jpeg 1599w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+															<img width="1024" height="768" src="/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-1024x768.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-1024x768.jpeg 1024w, /wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-300x225.jpeg 300w, /wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-768x576.jpeg 768w, /wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM-1536x1153.jpeg 1536w, /wp-content/uploads/2022/03/WhatsApp-Image-2022-03-16-at-7.44.50-PM.jpeg 1599w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -217,7 +217,7 @@
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/dumbsharas/">Dumbsharas</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+		<p>The post <a rel="nofollow" href="/dumbsharas/">Dumbsharas</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -225,16 +225,16 @@
 			</item>
 		<item>
 		<title>International Women&#8217;s Day &#8211; 2022</title>
-		<link>https://aces.gndec.ac.in/international-womens-day-2022/</link>
-					<comments>https://aces.gndec.ac.in/international-womens-day-2022/#respond</comments>
+		<link>/international-womens-day-2022/</link>
+					<comments>/international-womens-day-2022/#respond</comments>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Sun, 06 Mar 2022 17:17:48 +0000</pubDate>
 				<category><![CDATA[Upcoming Events]]></category>
-		<guid isPermaLink="false">https://aces.gndec.ac.in/?p=3398</guid>
+		<guid isPermaLink="false">/?p=3398</guid>
 
 					<description><![CDATA[<p>Happy International Women&#8217;s Day</p>
-<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/international-womens-day-2022/">International Women&#8217;s Day &#8211; 2022</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+<p>The post <a rel="nofollow" href="/international-womens-day-2022/">International Women&#8217;s Day &#8211; 2022</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3398" class="elementor elementor-3398" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
@@ -256,7 +256,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-8ec7654 elementor-widget elementor-widget-image" data-id="8ec7654" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="791" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2022/03/International-Womens-day-1_page-0001-791x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/03/International-Womens-day-1_page-0001-791x1024.jpg 791w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/International-Womens-day-1_page-0001-232x300.jpg 232w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/International-Womens-day-1_page-0001-768x994.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/International-Womens-day-1_page-0001-1187x1536.jpg 1187w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/International-Womens-day-1_page-0001.jpg 1275w" sizes="(max-width: 791px) 100vw, 791px" />															</div>
+															<img width="791" height="1024" src="/wp-content/uploads/2022/03/International-Womens-day-1_page-0001-791x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/03/International-Womens-day-1_page-0001-791x1024.jpg 791w, /wp-content/uploads/2022/03/International-Womens-day-1_page-0001-232x300.jpg 232w, /wp-content/uploads/2022/03/International-Womens-day-1_page-0001-768x994.jpg 768w, /wp-content/uploads/2022/03/International-Womens-day-1_page-0001-1187x1536.jpg 1187w, /wp-content/uploads/2022/03/International-Womens-day-1_page-0001.jpg 1275w" sizes="(max-width: 791px) 100vw, 791px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -264,25 +264,25 @@
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/international-womens-day-2022/">International Women&#8217;s Day &#8211; 2022</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+		<p>The post <a rel="nofollow" href="/international-womens-day-2022/">International Women&#8217;s Day &#8211; 2022</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://aces.gndec.ac.in/international-womens-day-2022/feed/</wfw:commentRss>
+					<wfw:commentRss>/international-womens-day-2022/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Shivratri-2022</title>
-		<link>https://aces.gndec.ac.in/shivratri-2022/</link>
+		<link>/shivratri-2022/</link>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Tue, 01 Mar 2022 03:56:20 +0000</pubDate>
 				<category><![CDATA[wishes]]></category>
-		<guid isPermaLink="false">https://aces.gndec.ac.in?p=3273</guid>
+		<guid isPermaLink="false">?p=3273</guid>
 
 					<description><![CDATA[<p>ACES wishes you Happy MahaShiv Ratri</p>
-<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/shivratri-2022/">Shivratri-2022</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+<p>The post <a rel="nofollow" href="/shivratri-2022/">Shivratri-2022</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3273" class="elementor elementor-3273" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
@@ -304,7 +304,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-316a5b9 elementor-widget elementor-widget-image" data-id="316a5b9" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="724" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-724x1024.jpg 724w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-212x300.jpg 212w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-768x1086.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-1086x1536.jpg 1086w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-1448x2048.jpg 1448w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
+															<img width="724" height="1024" src="/wp-content/uploads/2022/03/4-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/03/4-724x1024.jpg 724w, /wp-content/uploads/2022/03/4-212x300.jpg 212w, /wp-content/uploads/2022/03/4-768x1086.jpg 768w, /wp-content/uploads/2022/03/4-1086x1536.jpg 1086w, /wp-content/uploads/2022/03/4-1448x2048.jpg 1448w, /wp-content/uploads/2022/03/4-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -312,7 +312,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5986858 elementor-widget elementor-widget-image" data-id="5986858" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="724" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2022/03/1-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/03/1-724x1024.jpg 724w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/1-212x300.jpg 212w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/1-768x1086.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/1-1086x1536.jpg 1086w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/1-1448x2048.jpg 1448w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/1-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
+															<img width="724" height="1024" src="/wp-content/uploads/2022/03/1-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/03/1-724x1024.jpg 724w, /wp-content/uploads/2022/03/1-212x300.jpg 212w, /wp-content/uploads/2022/03/1-768x1086.jpg 768w, /wp-content/uploads/2022/03/1-1086x1536.jpg 1086w, /wp-content/uploads/2022/03/1-1448x2048.jpg 1448w, /wp-content/uploads/2022/03/1-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -320,7 +320,7 @@
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/shivratri-2022/">Shivratri-2022</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+		<p>The post <a rel="nofollow" href="/shivratri-2022/">Shivratri-2022</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -328,15 +328,15 @@
 			</item>
 		<item>
 		<title>Payment procedure for the Registration of &#8220;WordPress for beginners&#8221;</title>
-		<link>https://aces.gndec.ac.in/fee-wordpress-for-beginners/</link>
+		<link>/fee-wordpress-for-beginners/</link>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Sat, 26 Feb 2022 14:25:01 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://aces.gndec.ac.in?p=2985</guid>
+		<guid isPermaLink="false">?p=2985</guid>
 
 					<description><![CDATA[<p>Scan and Pay for &#8220;WordPress for Beginners&#8221; Workshop After Succesful Paying for Registration fees, Now Register Yourself</p>
-<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/fee-wordpress-for-beginners/">Payment procedure for the Registration of &#8220;WordPress for beginners&#8221;</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+<p>The post <a rel="nofollow" href="/fee-wordpress-for-beginners/">Payment procedure for the Registration of &#8220;WordPress for beginners&#8221;</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2985" class="elementor elementor-2985" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
@@ -350,8 +350,8 @@
 				</div>
 				<div class="elementor-element elementor-element-316eca2 elementor-widget elementor-widget-image" data-id="316eca2" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="https://aces.gndec.ac.inwp-content/uploads/2022/02/WhatsApp-Image-2022-02-26-at-7.09.46-PM.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="WhatsApp Image 2022-02-26 at 7.09.46 PM">
-							<img width="682" height="683" src="https://aces.gndec.ac.in/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-26-at-7.09.46-PM.jpeg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-26-at-7.09.46-PM.jpeg 682w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-26-at-7.09.46-PM-300x300.jpeg 300w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-26-at-7.09.46-PM-150x150.jpeg 150w" sizes="(max-width: 682px) 100vw, 682px" />								</a>
+																<a href="wp-content/uploads/2022/02/WhatsApp-Image-2022-02-26-at-7.09.46-PM.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="WhatsApp Image 2022-02-26 at 7.09.46 PM">
+							<img width="682" height="683" src="/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-26-at-7.09.46-PM.jpeg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-26-at-7.09.46-PM.jpeg 682w, /wp-content/uploads/2022/02/WhatsApp-Image-2022-02-26-at-7.09.46-PM-300x300.jpeg 300w, /wp-content/uploads/2022/02/WhatsApp-Image-2022-02-26-at-7.09.46-PM-150x150.jpeg 150w" sizes="(max-width: 682px) 100vw, 682px" />								</a>
 															</div>
 				</div>
 					</div>
@@ -372,7 +372,7 @@
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/fee-wordpress-for-beginners/">Payment procedure for the Registration of &#8220;WordPress for beginners&#8221;</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+		<p>The post <a rel="nofollow" href="/fee-wordpress-for-beginners/">Payment procedure for the Registration of &#8220;WordPress for beginners&#8221;</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
 		
