@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/category/wishes/feed/" rel="self" type="application/rss+xml" />
 	<link>https://aces.gndec.ac.in</link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Thu, 03 Mar 2022 04:16:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Mar 2022 03:57:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,46 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Holi-2022</title>
+		<link>https://aces.gndec.ac.in/holi-2022/</link>
+		
+		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
+		<pubDate>Fri, 18 Mar 2022 03:40:34 +0000</pubDate>
+				<category><![CDATA[wishes]]></category>
+		<guid isPermaLink="false">https://aces.gndec.ac.in/?p=3618</guid>
+
+					<description><![CDATA[<p>Happy Holi &#8211; 2022</p>
+<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/holi-2022/">Holi-2022</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3618" class="elementor elementor-3618" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-1a1270c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1a1270c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1719f2b" data-id="1719f2b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4e8f6ff elementor-widget elementor-widget-heading" data-id="4e8f6ff" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><div class="elementor-heading-title elementor-size-default">Happy Holi - 2022</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-bb148d6 elementor-widget elementor-widget-image" data-id="bb148d6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="724" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-724x1024.jpg 724w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-212x300.jpg 212w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-768x1086.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-1086x1536.jpg 1086w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-1448x2048.jpg 1448w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/holi-2022/">Holi-2022</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Shivratri-2022</title>
 		<link>https://aces.gndec.ac.in/shivratri-2022/</link>
 		
@@ -47,8 +87,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-9629948 elementor-widget elementor-widget-heading" data-id="9629948" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.3 - 28-12-2021 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><div class="elementor-heading-title elementor-size-default">Happy Mahashiv Ratri</div>		</div>
+			<div class="elementor-heading-title elementor-size-default">Happy Mahashiv Ratri</div>		</div>
 				</div>
 					</div>
 		</div>
@@ -60,8 +99,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-316a5b9 elementor-widget elementor-widget-image" data-id="316a5b9" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.3 - 28-12-2021 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="724" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-724x1024.jpg 724w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-212x300.jpg 212w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-768x1086.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-1086x1536.jpg 1086w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-1448x2048.jpg 1448w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
+															<img width="724" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-724x1024.jpg 724w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-212x300.jpg 212w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-768x1086.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-1086x1536.jpg 1086w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-1448x2048.jpg 1448w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
 				</div>
 					</div>
 		</div>

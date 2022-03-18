@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://aces.gndec.ac.in</link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Thu, 17 Mar 2022 18:08:33 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Mar 2022 03:57:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,46 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Holi-2022</title>
+		<link>https://aces.gndec.ac.in/holi-2022/</link>
+		
+		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
+		<pubDate>Fri, 18 Mar 2022 03:40:34 +0000</pubDate>
+				<category><![CDATA[wishes]]></category>
+		<guid isPermaLink="false">https://aces.gndec.ac.in/?p=3618</guid>
+
+					<description><![CDATA[<p>Happy Holi &#8211; 2022</p>
+<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/holi-2022/">Holi-2022</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3618" class="elementor elementor-3618" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-1a1270c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1a1270c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1719f2b" data-id="1719f2b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4e8f6ff elementor-widget elementor-widget-heading" data-id="4e8f6ff" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><div class="elementor-heading-title elementor-size-default">Happy Holi - 2022</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-bb148d6 elementor-widget elementor-widget-image" data-id="bb148d6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="724" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-724x1024.jpg 724w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-212x300.jpg 212w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-768x1086.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-1086x1536.jpg 1086w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-1448x2048.jpg 1448w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/holi-2022/">Holi-2022</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Dumbsharas</title>
 		<link>https://aces.gndec.ac.in/dumbsharas/</link>
 		
@@ -49,8 +89,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-ae2ca6c elementor-widget elementor-widget-heading" data-id="ae2ca6c" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.3 - 28-12-2021 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><div class="elementor-heading-title elementor-size-default">Dumbsharas</div>		</div>
+			<div class="elementor-heading-title elementor-size-default">Dumbsharas</div>		</div>
 				</div>
 					</div>
 		</div>
@@ -94,8 +133,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-71fb1b1 elementor-widget elementor-widget-image" data-id="71fb1b1" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.3 - 28-12-2021 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="724" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-724x1024.jpg 724w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-212x300.jpg 212w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-768x1086.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-1086x1536.jpg 1086w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-1448x2048.jpg 1448w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
+															<img width="724" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-724x1024.jpg 724w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-212x300.jpg 212w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-768x1086.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-1086x1536.jpg 1086w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-1448x2048.jpg 1448w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Dumbsharaj-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -335,177 +373,6 @@
 						</div>
 					</div>
 		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/fee-wordpress-for-beginners/">Payment procedure for the Registration of &#8220;WordPress for beginners&#8221;</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>WordPress for Beginners</title>
-		<link>https://aces.gndec.ac.in/wordpress-for-beginners/</link>
-		
-		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
-		<pubDate>Fri, 25 Feb 2022 04:21:22 +0000</pubDate>
-				<category><![CDATA[2021-2022]]></category>
-		<category><![CDATA[Seminar/webinar]]></category>
-		<guid isPermaLink="false">https://aces.gndec.ac.in?p=2803</guid>
-
-					<description><![CDATA[<p>WordPress for Beginners Seminar Details: &#8211; A two-day hands-on training workshop on &#8220;WordPress for Beginners&#8221; organized by the Association of Civil Engineering Students (ACES), Department of Civil Engineering, Guru Nanak Dev Engineering College Ludhiana, has been successfully concluded today. ACES has started a new series of Peer-to-peer learning programme, under which this event was held [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/wordpress-for-beginners/">WordPress for Beginners</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2803" class="elementor elementor-2803" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-c14bf50 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c14bf50" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5e6812a" data-id="5e6812a" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-459a6f6 elementor-widget elementor-widget-heading" data-id="459a6f6" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default">WordPress for Beginners</div>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-a32fc82 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a32fc82" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9737363" data-id="9737363" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-032d764 elementor-widget elementor-widget-heading" data-id="032d764" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default">Seminar Details: -</div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-6d0a935 elementor-widget elementor-widget-text-editor" data-id="6d0a935" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>A two-day hands-on training workshop on <strong>&#8220;WordPress for Beginners&#8221;</strong> organized by the Association of Civil Engineering Students (ACES), Department of Civil Engineering, Guru Nanak Dev Engineering College Ludhiana, has been successfully concluded today.</p><p>ACES has started a new series of Peer-to-peer learning programme, under which this event was held from March 03 to March 04, 2022.</p><p><span style="font-weight: 400;">It had </span><b>40 Registration</b><span style="font-weight: 400;"> along with 3  Faculty Members.</span></p>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b1f7bf0" data-id="b1f7bf0" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-a86d955 elementor-widget elementor-widget-image" data-id="a86d955" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img width="724" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2022/02/Wordpress-for-Begineers-2-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/02/Wordpress-for-Begineers-2-724x1024.jpg 724w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/Wordpress-for-Begineers-2-212x300.jpg 212w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/Wordpress-for-Begineers-2-768x1086.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1086x1536.jpg 1086w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/Wordpress-for-Begineers-2-1448x2048.jpg 1448w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/Wordpress-for-Begineers-2-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-f4725ea elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f4725ea" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b2a4e8e" data-id="b2a4e8e" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-cb9c746 elementor-widget elementor-widget-heading" data-id="cb9c746" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default"><a href="https://drive.google.com/drive/u/0/folders/1ILE9jT1BbRIVCNmYKPu2dKPYuQj1SEua" target="_blank">Download Certificates</a></div>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-ff63e80 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ff63e80" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a6eec16" data-id="a6eec16" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-2c8f08e elementor-widget elementor-widget-heading" data-id="2c8f08e" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default">Glimpse of the Workshop</div>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-d83daa6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d83daa6" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6dbefb8" data-id="6dbefb8" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-8a7c4b3 elementor-widget elementor-widget-image" data-id="8a7c4b3" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img width="1024" height="768" src="https://aces.gndec.ac.in/wp-content/uploads/2022/02/IMG20220304164623-1024x768.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/02/IMG20220304164623-1024x768.jpg 1024w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/IMG20220304164623-300x225.jpg 300w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/IMG20220304164623-768x576.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/IMG20220304164623-1536x1152.jpg 1536w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/IMG20220304164623-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-50905bc" data-id="50905bc" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-8b6ffc2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8b6ffc2" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-dafe7e6" data-id="dafe7e6" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-d2f0504 elementor-widget elementor-widget-image" data-id="d2f0504" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img width="1024" height="766" src="https://aces.gndec.ac.in/wp-content/uploads/2022/02/WhatsApp-Image-2022-03-04-at-8.12.46-PM-1024x766.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/02/WhatsApp-Image-2022-03-04-at-8.12.46-PM-1024x766.jpeg 1024w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/WhatsApp-Image-2022-03-04-at-8.12.46-PM-300x224.jpeg 300w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/WhatsApp-Image-2022-03-04-at-8.12.46-PM-768x575.jpeg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/WhatsApp-Image-2022-03-04-at-8.12.46-PM.jpeg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5a16601" data-id="5a16601" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-16e31f1 elementor-widget elementor-widget-image" data-id="16e31f1" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img width="1024" height="789" src="https://aces.gndec.ac.in/wp-content/uploads/2022/02/WhatsApp-Image-2022-03-04-at-8.12.45-PM-1-1024x789.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/02/WhatsApp-Image-2022-03-04-at-8.12.45-PM-1-1024x789.jpeg 1024w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/WhatsApp-Image-2022-03-04-at-8.12.45-PM-1-300x231.jpeg 300w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/WhatsApp-Image-2022-03-04-at-8.12.45-PM-1-768x592.jpeg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/WhatsApp-Image-2022-03-04-at-8.12.45-PM-1.jpeg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<div class="elementor-element elementor-element-e3b5712 elementor-widget elementor-widget-image" data-id="e3b5712" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img width="1024" height="472" src="https://aces.gndec.ac.in/wp-content/uploads/2022/02/IMG_20220303_155546-1024x472.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/02/IMG_20220303_155546-1024x472.jpg 1024w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/IMG_20220303_155546-300x138.jpg 300w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/IMG_20220303_155546-768x354.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/IMG_20220303_155546-1536x708.jpg 1536w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/IMG_20220303_155546-2048x944.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-a8859ad elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a8859ad" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fe913df" data-id="fe913df" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-ef6e517 elementor-widget elementor-widget-heading" data-id="ef6e517" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default">Content of the Workshop</div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-27a0606 elementor-widget elementor-widget-text-editor" data-id="27a0606" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><strong>Day 1: &#8211; Installation and Intial Setup of Bitmani WordPress</strong></p><ol><li style="list-style-type: none;"><ol><li style="list-style-type: none;"><ol><li>Installing Bitnami WordPress</li><li>Seting up WordPress</li><li>Installing Theme (<strong><a href="https://oceanwp.org/">Ocean wp</a></strong>)</li><li>Installing <b>Plugins</b></li><li>Creating Pages</li></ol></li></ol></li></ol><p><strong>Day 2: &#8211; Designing the Website</strong></p><ol><li style="list-style-type: none;"><ol><li style="list-style-type: none;"><ol><li>Editing Header &amp; Footer menu</li><li>A brief Overview of Elements</li><li>Editing Home Page by adding Elements</li><li><b>Customising</b> the Content</li><li>Converting WordPress site to Static Site</li><li>Hosting wordpress site on <b>Github pages</b></li></ol></li></ol></li></ol>						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-ca414b9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ca414b9" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e244f6b" data-id="e244f6b" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-b4095d3 elementor-widget elementor-widget-heading" data-id="b4095d3" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default">Outcomes of the Wordshop</div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-66425fb elementor-widget elementor-widget-text-editor" data-id="66425fb" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>The participants are well-versed with the platform (WordPress) after attending the workshop. They have become capable of exploring the world of making websites.</p>						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-b557eff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b557eff" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-93bc928" data-id="93bc928" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-5285c8e elementor-widget elementor-widget-heading" data-id="5285c8e" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-heading-title elementor-size-default">Organisers</div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-5622f32 elementor-widget elementor-widget-text-editor" data-id="5622f32" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<table width="333"><tbody><tr><td width="46"><p><b>Sr. no</b></p></td><td width="184"><b>Name</b></td><td width="40"><b>Year</b></td><td width="63"><b>URN</b></td></tr><tr><td width="46"><p>1</p></td><td width="184">Mehakdeep Singh Sandhu</td><td width="40">D3</td><td width="63">1904884</td></tr><tr><td width="46">2</td><td width="184">Sarvanshdeep Singh Sahota</td><td width="40">D3</td><td width="63">1914917</td></tr><tr><td width="46">3</td><td width="184">Sarabjeet</td><td width="40">D3</td><td width="63">1904916</td></tr><tr><td width="46">4</td><td width="184">Shiv Pratap Dubey</td><td width="40">D3</td><td width="63">1904925</td></tr><tr><td width="46">5</td><td width="184">Ritik Dogra</td><td width="40">D3</td><td width="63">1904903</td></tr><tr><td width="46">6</td><td width="184">Sharanjit Singh</td><td width="40">D3</td><td width="63">1904922</td></tr><tr><td width="46">7</td><td width="184">Sidhant Jindal</td><td width="40">D3</td><td width="63">1904930</td></tr><tr><td width="46">8</td><td width="184">kshitiz Kumar</td><td width="40">D2</td><td width="63">2004443</td></tr><tr><td width="46">9</td><td width="184">Gurpinder singh</td><td width="40">D2</td><td width="63">2004426</td></tr><tr><td width="46">10</td><td width="184">Nabeel Farooqui</td><td width="40">D2</td><td width="63">2004449</td></tr><tr><td width="46">11</td><td width="184">Smriti Sharma</td><td width="40">D2</td><td width="63">2004481</td></tr></tbody></table>						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-						</div>
-					</div>
-		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/wordpress-for-beginners/">WordPress for Beginners</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
 		
