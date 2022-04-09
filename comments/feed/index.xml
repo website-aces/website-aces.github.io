@@ -11,11 +11,11 @@
 	<atom:link href="http://127.0.0.1/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Sun, 27 Mar 2022 14:49:27 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Apr 2022 18:14:45 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 </channel>
 </rss>
