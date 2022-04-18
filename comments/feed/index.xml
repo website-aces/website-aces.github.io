@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Association of Civil Engineering Students	</title>
-	<atom:link href="http://127.0.0.1/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Sat, 09 Apr 2022 18:14:45 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Apr 2022 13:47:31 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

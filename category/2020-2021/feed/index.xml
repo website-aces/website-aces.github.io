@@ -9,7 +9,7 @@
 
 <channel>
 	<title>2020-2021 Archives - Association of Civil Engineering Students</title>
-	<atom:link href="http://127.0.0.1/wordpress/category/2020-2021/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/2020-2021/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Association of Civil Engineering Students</description>
 	<lastBuildDate>Sat, 12 Feb 2022 08:54:00 +0000</lastBuildDate>

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Technical events Archives - Association of Civil Engineering Students</title>
-	<atom:link href="http://127.0.0.1/wordpress/category/technical-events/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/technical-events/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Association of Civil Engineering Students</description>
 	<lastBuildDate>Sat, 12 Feb 2022 08:58:09 +0000</lastBuildDate>
