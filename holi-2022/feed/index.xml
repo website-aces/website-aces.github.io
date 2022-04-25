@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Holi-2022	</title>
-	<atom:link href="https://aces.gndec.ac.in/holi-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>https://aces.gndec.ac.in/holi-2022/</link>
+	<atom:link href="/holi-2022/feed/" rel="self" type="application/rss+xml" />
+	<link>/holi-2022/</link>
 	<description>Association of Civil Engineering Students</description>
 	<lastBuildDate>Fri, 18 Mar 2022 03:57:47 +0000</lastBuildDate>
 	<sy:updatePeriod>

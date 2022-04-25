@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Association of Civil Engineering Students	</title>
-	<atom:link href="https://aces.gndec.ac.in/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://aces.gndec.ac.in</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Mon, 25 Apr 2022 03:51:13 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Apr 2022 06:57:14 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

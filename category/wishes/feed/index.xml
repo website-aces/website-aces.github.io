@@ -9,8 +9,8 @@
 
 <channel>
 	<title>wishes Archives - Association of Civil Engineering Students</title>
-	<atom:link href="https://aces.gndec.ac.in/category/wishes/feed/" rel="self" type="application/rss+xml" />
-	<link>https://aces.gndec.ac.in</link>
+	<atom:link href="/category/wishes/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Association of Civil Engineering Students</description>
 	<lastBuildDate>Sun, 24 Apr 2022 17:40:33 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 <image>
-	<url>https://aces.gndec.ac.in/wp-content/uploads/2022/01/cropped-ACES-PNG-32x32.png</url>
+	<url>/wp-content/uploads/2022/01/cropped-ACES-PNG-32x32.png</url>
 	<title>wishes Archives - Association of Civil Engineering Students</title>
-	<link>https://aces.gndec.ac.in</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>World Earth Day &#8211; 2022</title>
-		<link>https://aces.gndec.ac.in/world-earth-day-2022/</link>
-					<comments>https://aces.gndec.ac.in/world-earth-day-2022/#respond</comments>
+		<link>/world-earth-day-2022/</link>
+					<comments>/world-earth-day-2022/#respond</comments>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Fri, 22 Apr 2022 17:35:47 +0000</pubDate>
 				<category><![CDATA[wishes]]></category>
-		<guid isPermaLink="false">https://aces.gndec.ac.in/?p=3972</guid>
+		<guid isPermaLink="false">/?p=3972</guid>
 
 					<description><![CDATA[<p>World Earth Day &#8211; 2022</p>
-<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/world-earth-day-2022/">World Earth Day &#8211; 2022</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+<p>The post <a rel="nofollow" href="/world-earth-day-2022/">World Earth Day &#8211; 2022</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3972" class="elementor elementor-3972" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
@@ -62,7 +62,7 @@
 								<div class="elementor-element elementor-element-ee37ced elementor-widget elementor-widget-image" data-id="ee37ced" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.5.3 - 28-12-2021 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="724" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2022/04/Earth-Day-Flyer-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/04/Earth-Day-Flyer-724x1024.jpg 724w, https://aces.gndec.ac.in/wp-content/uploads/2022/04/Earth-Day-Flyer-212x300.jpg 212w, https://aces.gndec.ac.in/wp-content/uploads/2022/04/Earth-Day-Flyer-768x1086.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/04/Earth-Day-Flyer-1086x1536.jpg 1086w, https://aces.gndec.ac.in/wp-content/uploads/2022/04/Earth-Day-Flyer-1448x2048.jpg 1448w, https://aces.gndec.ac.in/wp-content/uploads/2022/04/Earth-Day-Flyer-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="724" height="1024" src="/wp-content/uploads/2022/04/Earth-Day-Flyer-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/04/Earth-Day-Flyer-724x1024.jpg 724w, /wp-content/uploads/2022/04/Earth-Day-Flyer-212x300.jpg 212w, /wp-content/uploads/2022/04/Earth-Day-Flyer-768x1086.jpg 768w, /wp-content/uploads/2022/04/Earth-Day-Flyer-1086x1536.jpg 1086w, /wp-content/uploads/2022/04/Earth-Day-Flyer-1448x2048.jpg 1448w, /wp-content/uploads/2022/04/Earth-Day-Flyer-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -70,27 +70,27 @@
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/world-earth-day-2022/">World Earth Day &#8211; 2022</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+		<p>The post <a rel="nofollow" href="/world-earth-day-2022/">World Earth Day &#8211; 2022</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://aces.gndec.ac.in/world-earth-day-2022/feed/</wfw:commentRss>
+					<wfw:commentRss>/world-earth-day-2022/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Gurpurab &#8211; Guru Teg Bahaur Ji, 2022</title>
-		<link>https://aces.gndec.ac.in/gurpurab-guru-teg-bahaur-ji-2022/</link>
-					<comments>https://aces.gndec.ac.in/gurpurab-guru-teg-bahaur-ji-2022/#respond</comments>
+		<link>/gurpurab-guru-teg-bahaur-ji-2022/</link>
+					<comments>/gurpurab-guru-teg-bahaur-ji-2022/#respond</comments>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Thu, 21 Apr 2022 02:40:44 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[wishes]]></category>
-		<guid isPermaLink="false">https://aces.gndec.ac.in/?p=3914</guid>
+		<guid isPermaLink="false">/?p=3914</guid>
 
 					<description><![CDATA[<p>Gurpurab – Guru Teg Bahaur Ji, 2022</p>
-<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/gurpurab-guru-teg-bahaur-ji-2022/">Gurpurab &#8211; Guru Teg Bahaur Ji, 2022</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+<p>The post <a rel="nofollow" href="/gurpurab-guru-teg-bahaur-ji-2022/">Gurpurab &#8211; Guru Teg Bahaur Ji, 2022</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3914" class="elementor elementor-3914" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
@@ -112,7 +112,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-4d8a3f1 elementor-widget elementor-widget-image" data-id="4d8a3f1" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="724" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2022/04/Guru-teg-bahadur-ji-724x1024.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/04/Guru-teg-bahadur-ji-724x1024.jpeg 724w, https://aces.gndec.ac.in/wp-content/uploads/2022/04/Guru-teg-bahadur-ji-212x300.jpeg 212w, https://aces.gndec.ac.in/wp-content/uploads/2022/04/Guru-teg-bahadur-ji-768x1086.jpeg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/04/Guru-teg-bahadur-ji-1086x1536.jpeg 1086w, https://aces.gndec.ac.in/wp-content/uploads/2022/04/Guru-teg-bahadur-ji-1448x2048.jpeg 1448w, https://aces.gndec.ac.in/wp-content/uploads/2022/04/Guru-teg-bahadur-ji-scaled.jpeg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
+															<img width="724" height="1024" src="/wp-content/uploads/2022/04/Guru-teg-bahadur-ji-724x1024.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/04/Guru-teg-bahadur-ji-724x1024.jpeg 724w, /wp-content/uploads/2022/04/Guru-teg-bahadur-ji-212x300.jpeg 212w, /wp-content/uploads/2022/04/Guru-teg-bahadur-ji-768x1086.jpeg 768w, /wp-content/uploads/2022/04/Guru-teg-bahadur-ji-1086x1536.jpeg 1086w, /wp-content/uploads/2022/04/Guru-teg-bahadur-ji-1448x2048.jpeg 1448w, /wp-content/uploads/2022/04/Guru-teg-bahadur-ji-scaled.jpeg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -120,25 +120,25 @@
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/gurpurab-guru-teg-bahaur-ji-2022/">Gurpurab &#8211; Guru Teg Bahaur Ji, 2022</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+		<p>The post <a rel="nofollow" href="/gurpurab-guru-teg-bahaur-ji-2022/">Gurpurab &#8211; Guru Teg Bahaur Ji, 2022</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://aces.gndec.ac.in/gurpurab-guru-teg-bahaur-ji-2022/feed/</wfw:commentRss>
+					<wfw:commentRss>/gurpurab-guru-teg-bahaur-ji-2022/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Holi-2022</title>
-		<link>https://aces.gndec.ac.in/holi-2022/</link>
+		<link>/holi-2022/</link>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Fri, 18 Mar 2022 03:40:34 +0000</pubDate>
 				<category><![CDATA[wishes]]></category>
-		<guid isPermaLink="false">https://aces.gndec.ac.in/?p=3618</guid>
+		<guid isPermaLink="false">/?p=3618</guid>
 
 					<description><![CDATA[<p>Happy Holi &#8211; 2022</p>
-<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/holi-2022/">Holi-2022</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+<p>The post <a rel="nofollow" href="/holi-2022/">Holi-2022</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3618" class="elementor elementor-3618" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
@@ -152,7 +152,7 @@
 				</div>
 				<div class="elementor-element elementor-element-bb148d6 elementor-widget elementor-widget-image" data-id="bb148d6" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="724" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-724x1024.jpg 724w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-212x300.jpg 212w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-768x1086.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-1086x1536.jpg 1086w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-1448x2048.jpg 1448w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/Holi-2022-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
+															<img width="724" height="1024" src="/wp-content/uploads/2022/03/Holi-2022-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/03/Holi-2022-724x1024.jpg 724w, /wp-content/uploads/2022/03/Holi-2022-212x300.jpg 212w, /wp-content/uploads/2022/03/Holi-2022-768x1086.jpg 768w, /wp-content/uploads/2022/03/Holi-2022-1086x1536.jpg 1086w, /wp-content/uploads/2022/03/Holi-2022-1448x2048.jpg 1448w, /wp-content/uploads/2022/03/Holi-2022-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -160,7 +160,7 @@
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/holi-2022/">Holi-2022</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+		<p>The post <a rel="nofollow" href="/holi-2022/">Holi-2022</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -168,15 +168,15 @@
 			</item>
 		<item>
 		<title>Shivratri-2022</title>
-		<link>https://aces.gndec.ac.in/shivratri-2022/</link>
+		<link>/shivratri-2022/</link>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Tue, 01 Mar 2022 03:56:20 +0000</pubDate>
 				<category><![CDATA[wishes]]></category>
-		<guid isPermaLink="false">https://aces.gndec.ac.in?p=3273</guid>
+		<guid isPermaLink="false">?p=3273</guid>
 
 					<description><![CDATA[<p>ACES wishes you Happy MahaShiv Ratri</p>
-<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/shivratri-2022/">Shivratri-2022</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+<p>The post <a rel="nofollow" href="/shivratri-2022/">Shivratri-2022</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3273" class="elementor elementor-3273" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
@@ -198,7 +198,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-316a5b9 elementor-widget elementor-widget-image" data-id="316a5b9" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="724" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-724x1024.jpg 724w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-212x300.jpg 212w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-768x1086.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-1086x1536.jpg 1086w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-1448x2048.jpg 1448w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/4-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
+															<img width="724" height="1024" src="/wp-content/uploads/2022/03/4-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/03/4-724x1024.jpg 724w, /wp-content/uploads/2022/03/4-212x300.jpg 212w, /wp-content/uploads/2022/03/4-768x1086.jpg 768w, /wp-content/uploads/2022/03/4-1086x1536.jpg 1086w, /wp-content/uploads/2022/03/4-1448x2048.jpg 1448w, /wp-content/uploads/2022/03/4-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -206,7 +206,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5986858 elementor-widget elementor-widget-image" data-id="5986858" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="724" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2022/03/1-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/03/1-724x1024.jpg 724w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/1-212x300.jpg 212w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/1-768x1086.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/1-1086x1536.jpg 1086w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/1-1448x2048.jpg 1448w, https://aces.gndec.ac.in/wp-content/uploads/2022/03/1-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
+															<img width="724" height="1024" src="/wp-content/uploads/2022/03/1-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/03/1-724x1024.jpg 724w, /wp-content/uploads/2022/03/1-212x300.jpg 212w, /wp-content/uploads/2022/03/1-768x1086.jpg 768w, /wp-content/uploads/2022/03/1-1086x1536.jpg 1086w, /wp-content/uploads/2022/03/1-1448x2048.jpg 1448w, /wp-content/uploads/2022/03/1-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -214,7 +214,7 @@
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/shivratri-2022/">Shivratri-2022</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+		<p>The post <a rel="nofollow" href="/shivratri-2022/">Shivratri-2022</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -222,16 +222,16 @@
 			</item>
 		<item>
 		<title>Teacher&#8217;s Day 2021</title>
-		<link>https://aces.gndec.ac.in/teachers-day-2021/</link>
+		<link>/teachers-day-2021/</link>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Sun, 05 Sep 2021 04:05:22 +0000</pubDate>
 				<category><![CDATA[2021-2022]]></category>
 		<category><![CDATA[wishes]]></category>
-		<guid isPermaLink="false">https://aces.gndec.ac.in?p=1525</guid>
+		<guid isPermaLink="false">?p=1525</guid>
 
 					<description><![CDATA[<p>Teacher&#8217;s Day 2021 ACES wishes you a Happy Teacher&#8217;s Day Teacher’s Day is the festival of the birth anniversary of Bharat Ratna beneficiary Dr. Sarvapalli Radhakrishnan. He was a practical and inspirational teacher whom each student of the country used to cherish. In memory of his contributions as a teacher, we praise Teacher’s Day to [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/teachers-day-2021/">Teacher&#8217;s Day 2021</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+<p>The post <a rel="nofollow" href="/teachers-day-2021/">Teacher&#8217;s Day 2021</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1525" class="elementor elementor-1525" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
@@ -266,8 +266,8 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-e9c504c elementor-widget elementor-widget-image" data-id="e9c504c" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="https://aces.gndec.ac.inwp-content/uploads/2021/09/Teachers-Day-ACES.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Teacher&#039;s Day - ACES">
-							<img width="768" height="1086" src="https://aces.gndec.ac.in/wp-content/uploads/2021/09/Teachers-Day-ACES-768x1086.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2021/09/Teachers-Day-ACES-768x1086.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2021/09/Teachers-Day-ACES-212x300.jpg 212w, https://aces.gndec.ac.in/wp-content/uploads/2021/09/Teachers-Day-ACES-724x1024.jpg 724w, https://aces.gndec.ac.in/wp-content/uploads/2021/09/Teachers-Day-ACES-1086x1536.jpg 1086w, https://aces.gndec.ac.in/wp-content/uploads/2021/09/Teachers-Day-ACES-1448x2048.jpg 1448w, https://aces.gndec.ac.in/wp-content/uploads/2021/09/Teachers-Day-ACES.jpg 1587w" sizes="(max-width: 768px) 100vw, 768px" />								</a>
+																<a href="wp-content/uploads/2021/09/Teachers-Day-ACES.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Teacher&#039;s Day - ACES">
+							<img width="768" height="1086" src="/wp-content/uploads/2021/09/Teachers-Day-ACES-768x1086.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/09/Teachers-Day-ACES-768x1086.jpg 768w, /wp-content/uploads/2021/09/Teachers-Day-ACES-212x300.jpg 212w, /wp-content/uploads/2021/09/Teachers-Day-ACES-724x1024.jpg 724w, /wp-content/uploads/2021/09/Teachers-Day-ACES-1086x1536.jpg 1086w, /wp-content/uploads/2021/09/Teachers-Day-ACES-1448x2048.jpg 1448w, /wp-content/uploads/2021/09/Teachers-Day-ACES.jpg 1587w" sizes="(max-width: 768px) 100vw, 768px" />								</a>
 															</div>
 				</div>
 					</div>
@@ -278,7 +278,7 @@
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.5.3 - 28-12-2021 */
 .elementor-widget-video .elementor-widget-container{overflow:hidden;-webkit-transform:translateZ(0);transform:translateZ(0)}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;-webkit-background-size:cover;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}</style>		<div class="e-hosted-video elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-					<video class="elementor-video" src="https://aces.gndec.ac.in/wp-content/uploads/2021/09/Teachers-day-2021-2.mp4#t=1.5" controls="" poster="https://aces.gndec.ac.inwp-content/uploads/2021/09/Teachers-Day-ACES.jpg"></video>
+					<video class="elementor-video" src="/wp-content/uploads/2021/09/Teachers-day-2021-2.mp4#t=1.5" controls="" poster="wp-content/uploads/2021/09/Teachers-Day-ACES.jpg"></video>
 				</div>
 				</div>
 				</div>
@@ -288,11 +288,11 @@
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/teachers-day-2021/">Teacher&#8217;s Day 2021</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+		<p>The post <a rel="nofollow" href="/teachers-day-2021/">Teacher&#8217;s Day 2021</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
 		
-		<enclosure url="https://aces.gndec.ac.in/wp-content/uploads/2021/09/Teachers-day-2021-2.mp4" length="35442234" type="video/mp4" />
+		<enclosure url="/wp-content/uploads/2021/09/Teachers-day-2021-2.mp4" length="35442234" type="video/mp4" />
 
 			</item>
 	</channel>

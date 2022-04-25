@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Technical events Archives - Association of Civil Engineering Students</title>
-	<atom:link href="https://aces.gndec.ac.in/category/technical-events/feed/" rel="self" type="application/rss+xml" />
-	<link>https://aces.gndec.ac.in</link>
+	<atom:link href="/category/technical-events/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Association of Civil Engineering Students</description>
 	<lastBuildDate>Sat, 12 Feb 2022 08:58:09 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,24 +21,24 @@
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 <image>
-	<url>https://aces.gndec.ac.in/wp-content/uploads/2022/01/cropped-ACES-PNG-32x32.png</url>
+	<url>/wp-content/uploads/2022/01/cropped-ACES-PNG-32x32.png</url>
 	<title>Technical events Archives - Association of Civil Engineering Students</title>
-	<link>https://aces.gndec.ac.in</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Doorway to ACES</title>
-		<link>https://aces.gndec.ac.in/doorway-to-aces/</link>
+		<link>/doorway-to-aces/</link>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Wed, 02 Feb 2022 13:48:04 +0000</pubDate>
 				<category><![CDATA[2021-2022]]></category>
 		<category><![CDATA[Technical events]]></category>
-		<guid isPermaLink="false">https://aces.gndec.ac.in?p=1138</guid>
+		<guid isPermaLink="false">?p=1138</guid>
 
 					<description><![CDATA[<p>Doorway to ACES Association of civil engineering students (ACES) organized an interactive event named “DOORWAY TO ACES”. It was conducted on 2nd February 2022. The event was conducted on Google Meet. On the first day of the event, all the participants were called to introduce themselves and share their hobbies, goals and etc so that [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/doorway-to-aces/">Doorway to ACES</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+<p>The post <a rel="nofollow" href="/doorway-to-aces/">Doorway to ACES</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1138" class="elementor elementor-1138" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
@@ -81,8 +81,8 @@
 								<div class="elementor-element elementor-element-fe78909 elementor-widget elementor-widget-image" data-id="fe78909" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.5.3 - 28-12-2021 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="https://aces.gndec.ac.inwp-content/uploads/2022/01/Photographic-Church-Seminar-Flyer-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Photographic Church Seminar Flyer">
-							<img width="768" height="1086" src="https://aces.gndec.ac.in/wp-content/uploads/2022/01/Photographic-Church-Seminar-Flyer-768x1086.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/01/Photographic-Church-Seminar-Flyer-768x1086.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/01/Photographic-Church-Seminar-Flyer-212x300.jpg 212w, https://aces.gndec.ac.in/wp-content/uploads/2022/01/Photographic-Church-Seminar-Flyer-724x1024.jpg 724w, https://aces.gndec.ac.in/wp-content/uploads/2022/01/Photographic-Church-Seminar-Flyer-1086x1536.jpg 1086w, https://aces.gndec.ac.in/wp-content/uploads/2022/01/Photographic-Church-Seminar-Flyer-1448x2048.jpg 1448w, https://aces.gndec.ac.in/wp-content/uploads/2022/01/Photographic-Church-Seminar-Flyer-scaled.jpg 1810w" sizes="(max-width: 768px) 100vw, 768px" />								</a>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="wp-content/uploads/2022/01/Photographic-Church-Seminar-Flyer-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Photographic Church Seminar Flyer">
+							<img width="768" height="1086" src="/wp-content/uploads/2022/01/Photographic-Church-Seminar-Flyer-768x1086.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/01/Photographic-Church-Seminar-Flyer-768x1086.jpg 768w, /wp-content/uploads/2022/01/Photographic-Church-Seminar-Flyer-212x300.jpg 212w, /wp-content/uploads/2022/01/Photographic-Church-Seminar-Flyer-724x1024.jpg 724w, /wp-content/uploads/2022/01/Photographic-Church-Seminar-Flyer-1086x1536.jpg 1086w, /wp-content/uploads/2022/01/Photographic-Church-Seminar-Flyer-1448x2048.jpg 1448w, /wp-content/uploads/2022/01/Photographic-Church-Seminar-Flyer-scaled.jpg 1810w" sizes="(max-width: 768px) 100vw, 768px" />								</a>
 															</div>
 				</div>
 					</div>
@@ -123,7 +123,7 @@
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/doorway-to-aces/">Doorway to ACES</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+		<p>The post <a rel="nofollow" href="/doorway-to-aces/">Doorway to ACES</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -131,17 +131,17 @@
 			</item>
 		<item>
 		<title>Article Writing Contest</title>
-		<link>https://aces.gndec.ac.in/article-writing-contest/</link>
+		<link>/article-writing-contest/</link>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Thu, 16 Sep 2021 13:54:26 +0000</pubDate>
 				<category><![CDATA[2021-2022]]></category>
 		<category><![CDATA[Competition]]></category>
 		<category><![CDATA[Technical events]]></category>
-		<guid isPermaLink="false">https://aces.gndec.ac.in?p=1424</guid>
+		<guid isPermaLink="false">?p=1424</guid>
 
 					<description><![CDATA[<p>Article Writing Contest An online article writing event was organized by the Association of Civil Engineering Students from 12th September to 16th September 2021. The event was led and executed successfully under the able guidance of Prof.Yuvraj Singh . The event was a part of one of the various technical and social events organized by [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/article-writing-contest/">Article Writing Contest</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+<p>The post <a rel="nofollow" href="/article-writing-contest/">Article Writing Contest</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1424" class="elementor elementor-1424" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
@@ -171,8 +171,8 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-7614e87 elementor-widget elementor-widget-image" data-id="7614e87" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="https://aces.gndec.ac.inwp-content/uploads/2022/02/Flyer-Article-Writing-Contest.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Flyer - Article Writing Contest">
-							<img width="723" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2022/02/Flyer-Article-Writing-Contest-723x1024.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/02/Flyer-Article-Writing-Contest-723x1024.jpeg 723w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/Flyer-Article-Writing-Contest-212x300.jpeg 212w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/Flyer-Article-Writing-Contest-768x1087.jpeg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/Flyer-Article-Writing-Contest.jpeg 904w" sizes="(max-width: 723px) 100vw, 723px" />								</a>
+																<a href="wp-content/uploads/2022/02/Flyer-Article-Writing-Contest.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Flyer - Article Writing Contest">
+							<img width="723" height="1024" src="/wp-content/uploads/2022/02/Flyer-Article-Writing-Contest-723x1024.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/02/Flyer-Article-Writing-Contest-723x1024.jpeg 723w, /wp-content/uploads/2022/02/Flyer-Article-Writing-Contest-212x300.jpeg 212w, /wp-content/uploads/2022/02/Flyer-Article-Writing-Contest-768x1087.jpeg 768w, /wp-content/uploads/2022/02/Flyer-Article-Writing-Contest.jpeg 904w" sizes="(max-width: 723px) 100vw, 723px" />								</a>
 															</div>
 				</div>
 					</div>
@@ -250,7 +250,7 @@
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/article-writing-contest/">Article Writing Contest</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+		<p>The post <a rel="nofollow" href="/article-writing-contest/">Article Writing Contest</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -258,17 +258,17 @@
 			</item>
 		<item>
 		<title>Bridge Constructor</title>
-		<link>https://aces.gndec.ac.in/bridge-constructor/</link>
+		<link>/bridge-constructor/</link>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Sun, 09 May 2021 05:40:24 +0000</pubDate>
 				<category><![CDATA[2020-2021]]></category>
 		<category><![CDATA[Competition]]></category>
 		<category><![CDATA[Technical events]]></category>
-		<guid isPermaLink="false">https://aces.gndec.ac.in?p=1606</guid>
+		<guid isPermaLink="false">?p=1606</guid>
 
 					<description><![CDATA[<p>Bridge Constructor Event: Bridge Constructor The event will consist of 2 Rounds: a)&#160; First Round: Quiz-Picto-Mania b) Second Round : Pont- Bâtiment Rules For Quiz-Picto-Mania: This round will contain a quiz based on current affairs, general knowledge with logo, and Historical Architectural identification (pictorial form). The quiz will contain 15 questions : 5 Questions: Current [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/bridge-constructor/">Bridge Constructor</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+<p>The post <a rel="nofollow" href="/bridge-constructor/">Bridge Constructor</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1606" class="elementor elementor-1606" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
@@ -329,8 +329,8 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-a490901 elementor-widget elementor-widget-image" data-id="a490901" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="https://aces.gndec.ac.inwp-content/uploads/2021/05/WhatsApp-Image-2021-05-04-at-16.27.13.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="WhatsApp Image 2021-05-04 at 16.27.13">
-							<img width="576" height="1024" src="https://aces.gndec.ac.in/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-04-at-16.27.13-576x1024.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-04-at-16.27.13-576x1024.jpeg 576w, https://aces.gndec.ac.in/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-04-at-16.27.13-169x300.jpeg 169w, https://aces.gndec.ac.in/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-04-at-16.27.13.jpeg 720w" sizes="(max-width: 576px) 100vw, 576px" />								</a>
+																<a href="wp-content/uploads/2021/05/WhatsApp-Image-2021-05-04-at-16.27.13.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="WhatsApp Image 2021-05-04 at 16.27.13">
+							<img width="576" height="1024" src="/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-04-at-16.27.13-576x1024.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2021/05/WhatsApp-Image-2021-05-04-at-16.27.13-576x1024.jpeg 576w, /wp-content/uploads/2021/05/WhatsApp-Image-2021-05-04-at-16.27.13-169x300.jpeg 169w, /wp-content/uploads/2021/05/WhatsApp-Image-2021-05-04-at-16.27.13.jpeg 720w" sizes="(max-width: 576px) 100vw, 576px" />								</a>
 															</div>
 				</div>
 					</div>
@@ -416,7 +416,7 @@
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/bridge-constructor/">Bridge Constructor</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+		<p>The post <a rel="nofollow" href="/bridge-constructor/">Bridge Constructor</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -424,17 +424,17 @@
 			</item>
 		<item>
 		<title>Plot the Plot</title>
-		<link>https://aces.gndec.ac.in/plot-the-plot/</link>
+		<link>/plot-the-plot/</link>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Fri, 07 May 2021 04:45:20 +0000</pubDate>
 				<category><![CDATA[2020-2021]]></category>
 		<category><![CDATA[Competition]]></category>
 		<category><![CDATA[Technical events]]></category>
-		<guid isPermaLink="false">https://aces.gndec.ac.in?p=1571</guid>
+		<guid isPermaLink="false">?p=1571</guid>
 
 					<description><![CDATA[<p>Plot the Plot Winners Position Name College 1st Rohan Singh Guru Nanak Dev Engineering College 2nd Sukhwinder Singh Lovely professional university 3rd Yogesh Sharma Guru Nanak Dev Engineering College Organizers Sr. No. Name Year URN 1 Sharanjit Singh 2nd Year 1904922 2 Sidhant Jindal 2nd Year 1904930 3 Sarvanshdeep Singh Sahota 2nd Year 1914917</p>
-<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/plot-the-plot/">Plot the Plot</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+<p>The post <a rel="nofollow" href="/plot-the-plot/">Plot the Plot</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1571" class="elementor elementor-1571" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
@@ -456,8 +456,8 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-9521d8f elementor-widget elementor-widget-image" data-id="9521d8f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="https://aces.gndec.ac.inwp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Flyer- PLOT THE PLOT">
-							<img width="768" height="545" src="https://aces.gndec.ac.in/wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT-768x545.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT-768x545.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT-300x213.jpg 300w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT-1024x726.jpg 1024w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />								</a>
+																<a href="wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Flyer- PLOT THE PLOT">
+							<img width="768" height="545" src="/wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT-768x545.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT-768x545.jpg 768w, /wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT-300x213.jpg 300w, /wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT-1024x726.jpg 1024w, /wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />								</a>
 															</div>
 				</div>
 					</div>
@@ -470,8 +470,8 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-152a103 elementor-widget elementor-widget-image" data-id="152a103" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="https://aces.gndec.ac.inwp-content/uploads/2022/02/Rules.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Rules">
-							<img width="1024" height="860" src="https://aces.gndec.ac.in/wp-content/uploads/2022/02/Rules-1024x860.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/02/Rules-1024x860.png 1024w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/Rules-300x252.png 300w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/Rules-768x645.png 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/Rules.png 1285w" sizes="(max-width: 1024px) 100vw, 1024px" />								</a>
+																<a href="wp-content/uploads/2022/02/Rules.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Rules">
+							<img width="1024" height="860" src="/wp-content/uploads/2022/02/Rules-1024x860.png" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/02/Rules-1024x860.png 1024w, /wp-content/uploads/2022/02/Rules-300x252.png 300w, /wp-content/uploads/2022/02/Rules-768x645.png 768w, /wp-content/uploads/2022/02/Rules.png 1285w" sizes="(max-width: 1024px) 100vw, 1024px" />								</a>
 															</div>
 				</div>
 					</div>
@@ -480,8 +480,8 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d4966c9 elementor-widget elementor-widget-image" data-id="d4966c9" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="https://aces.gndec.ac.inwp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT_ignez.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Flyer- PLOT THE PLOT_ignez">
-							<img width="1024" height="860" src="https://aces.gndec.ac.in/wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT_ignez-1024x860.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT_ignez-1024x860.png 1024w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT_ignez-300x252.png 300w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT_ignez-768x645.png 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT_ignez.png 1286w" sizes="(max-width: 1024px) 100vw, 1024px" />								</a>
+																<a href="wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT_ignez.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Flyer- PLOT THE PLOT_ignez">
+							<img width="1024" height="860" src="/wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT_ignez-1024x860.png" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT_ignez-1024x860.png 1024w, /wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT_ignez-300x252.png 300w, /wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT_ignez-768x645.png 768w, /wp-content/uploads/2022/02/Flyer-PLOT-THE-PLOT_ignez.png 1286w" sizes="(max-width: 1024px) 100vw, 1024px" />								</a>
 															</div>
 				</div>
 					</div>
@@ -549,7 +549,7 @@
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/plot-the-plot/">Plot the Plot</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+		<p>The post <a rel="nofollow" href="/plot-the-plot/">Plot the Plot</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -557,17 +557,17 @@
 			</item>
 		<item>
 		<title>FreeCAD The &#8220;Designing Contest&#8221;</title>
-		<link>https://aces.gndec.ac.in/freecad-the-designing-contest/</link>
+		<link>/freecad-the-designing-contest/</link>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Sat, 10 Oct 2020 15:04:59 +0000</pubDate>
 				<category><![CDATA[2020-2021]]></category>
 		<category><![CDATA[Competition]]></category>
 		<category><![CDATA[Technical events]]></category>
-		<guid isPermaLink="false">https://aces.gndec.ac.in?p=1777</guid>
+		<guid isPermaLink="false">?p=1777</guid>
 
 					<description><![CDATA[<p>FreeCAD &#8211; The &#8220;Designing Contest&#8221; ACES organized a 3D designing competition from 11th October to 14th October on guru.gndec.ac.in the portal. In this contest, the participants have had to make a 3D design of a 2BHK house of dimensions 12m x 15m in FREECAD of their desire.   Winner (Best Entry) Name: &#8211; Ujjwaldeep SinghYear: [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/freecad-the-designing-contest/">FreeCAD The &#8220;Designing Contest&#8221;</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+<p>The post <a rel="nofollow" href="/freecad-the-designing-contest/">FreeCAD The &#8220;Designing Contest&#8221;</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1777" class="elementor elementor-1777" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
@@ -597,8 +597,8 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-36ac966 elementor-widget elementor-widget-image" data-id="36ac966" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="https://aces.gndec.ac.inwp-content/uploads/2022/02/FreeCAD-flyer.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="FreeCAD-flyer">
-							<img width="768" height="1077" src="https://aces.gndec.ac.in/wp-content/uploads/2022/02/FreeCAD-flyer-768x1077.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://aces.gndec.ac.in/wp-content/uploads/2022/02/FreeCAD-flyer-768x1077.jpg 768w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/FreeCAD-flyer-214x300.jpg 214w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/FreeCAD-flyer-730x1024.jpg 730w, https://aces.gndec.ac.in/wp-content/uploads/2022/02/FreeCAD-flyer.jpg 913w" sizes="(max-width: 768px) 100vw, 768px" />								</a>
+																<a href="wp-content/uploads/2022/02/FreeCAD-flyer.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="FreeCAD-flyer">
+							<img width="768" height="1077" src="/wp-content/uploads/2022/02/FreeCAD-flyer-768x1077.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/02/FreeCAD-flyer-768x1077.jpg 768w, /wp-content/uploads/2022/02/FreeCAD-flyer-214x300.jpg 214w, /wp-content/uploads/2022/02/FreeCAD-flyer-730x1024.jpg 730w, /wp-content/uploads/2022/02/FreeCAD-flyer.jpg 913w" sizes="(max-width: 768px) 100vw, 768px" />								</a>
 															</div>
 				</div>
 					</div>
@@ -630,7 +630,7 @@
 			<style>/*! elementor - v3.5.3 - 28-12-2021 */
 .elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}</style>		<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://aces.gndec.ac.in/wp-content/uploads/2022/02/1-300x156.png" alt="1" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://aces.gndec.ac.in/wp-content/uploads/2022/02/4-300x163.png" alt="4" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://aces.gndec.ac.in/wp-content/uploads/2022/02/3-300x158.png" alt="3" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://aces.gndec.ac.in/wp-content/uploads/2022/02/2-300x169.png" alt="2" /></figure></div>			</div>
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/2022/02/1-300x156.png" alt="1" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/2022/02/4-300x163.png" alt="4" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/2022/02/3-300x158.png" alt="3" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/2022/02/2-300x169.png" alt="2" /></figure></div>			</div>
 												<div class="swiper-pagination"></div>
 													<div class="elementor-swiper-button elementor-swiper-button-prev">
 						<i aria-hidden="true" class="eicon-chevron-left"></i>						<span class="elementor-screen-only">Previous</span>
@@ -667,7 +667,7 @@
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https://aces.gndec.ac.in/freecad-the-designing-contest/">FreeCAD The &#8220;Designing Contest&#8221;</a> appeared first on <a rel="nofollow" href="https://aces.gndec.ac.in">Association of Civil Engineering Students</a>.</p>
+		<p>The post <a rel="nofollow" href="/freecad-the-designing-contest/">FreeCAD The &#8220;Designing Contest&#8221;</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
 		
