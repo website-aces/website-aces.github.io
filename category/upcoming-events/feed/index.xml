@@ -12,13 +12,13 @@
 	<atom:link href="/category/upcoming-events/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Mon, 09 May 2022 03:31:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Mar 2023 18:26:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
 	<url>/wp-content/uploads/2022/01/cropped-ACES-PNG-32x32.png</url>
@@ -28,68 +28,70 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Desgn Mania</title>
-		<link>/design-mania-2/</link>
+		<title>Sanrachna</title>
+		<link>/sanrachna/</link>
+					<comments>/sanrachna/#respond</comments>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
-		<pubDate>Wed, 04 May 2022 17:00:36 +0000</pubDate>
-				<category><![CDATA[2021-2022]]></category>
-		<category><![CDATA[Fun events]]></category>
+		<pubDate>Tue, 14 Mar 2023 17:51:23 +0000</pubDate>
+				<category><![CDATA[2022-2023]]></category>
+		<category><![CDATA[Competition]]></category>
+		<category><![CDATA[Technical events]]></category>
 		<category><![CDATA[Upcoming Events]]></category>
-		<guid isPermaLink="false">/?p=4030</guid>
+		<guid isPermaLink="false">/?p=4199</guid>
 
-					<description><![CDATA[<p>Design Mania Want to showcase your designing skills, but not getting a platform? Association of Civil Engineering Students presents a &#8220;techno fun event&#8221; Design Mania In this event you have to make 3D structures using Multicraft Event details Date :- 6th and 9th May, 2022Time : &#8211; 3pm Venue : &#8211; TCC seminar hall   [&#8230;]</p>
-<p>The post <a rel="nofollow" href="/design-mania-2/">Desgn Mania</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
+					<description><![CDATA[<p>Sanrachna (Bridge modelling contest) ‍Hola Amigos Want to showcase your Model Making skills by making the best out of waste but don&#8217;t know how? Association of Civil Engineering Students conducting &#8220;SANRACHNA&#8221; (a bridge modelling competition) event under Techno Mela 2023. This will be a one-day event in which there will be 2 rounds. The 1st [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/sanrachna/">Sanrachna</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="4030" class="elementor elementor-4030" data-elementor-settings="[]">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="4199" class="elementor elementor-4199" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-c14bf50 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c14bf50" data-element_type="section">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-663c9ce elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="663c9ce" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5e6812a" data-id="5e6812a" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9ce6f5e" data-id="9ce6f5e" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-459a6f6 elementor-widget elementor-widget-heading" data-id="459a6f6" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-5029a29 elementor-widget elementor-widget-heading" data-id="5029a29" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.5.3 - 28-12-2021 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><div class="elementor-heading-title elementor-size-default">Design Mania</div>		</div>
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><div class="elementor-heading-title elementor-size-default">Sanrachna (Bridge modelling contest)</div>		</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-a32fc82 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a32fc82" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c7b87a1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c7b87a1" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9737363" data-id="9737363" data-element_type="column">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e359de4" data-id="e359de4" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-a63b45c elementor-widget elementor-widget-text-editor" data-id="a63b45c" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-3bb2829 elementor-widget elementor-widget-text-editor" data-id="3bb2829" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.5.3 - 28-12-2021 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Want to showcase your designing skills, but not getting a platform?</p><p><img class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/13.1.0/svg/1f4ab.svg" alt="&#x1f4ab;" />Association of Civil Engineering Students <img class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/13.1.0/svg/1f4ab.svg" alt="&#x1f4ab;" /> presents a &#8220;techno fun event&#8221;</p><p><img class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/13.1.0/svg/1f5a5.svg" alt="&#x1f5a5;" /> Design Mania <img class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/13.1.0/svg/1f3d9.svg" alt="&#x1f3d9;" /></p><p>In this event you have to make 3D structures using Multicraft</p><p><img class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/13.1.0/svg/1f338.svg" alt="&#x1f338;" /> Event details<img class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/13.1.0/svg/1f338.svg" alt="&#x1f338;" /><br /><img class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/13.1.0/svg/1f5d3.svg" alt="&#x1f5d3;" /> Date :- 6th and 9th May, 2022<br /><img class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/13.1.0/svg/1f552.svg" alt="&#x1f552;" />Time : &#8211; 3pm <br /><img class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/13.1.0/svg/1f306.svg" alt="&#x1f306;" /> Venue : &#8211; TCC seminar hall</p><p> </p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-2f7b7f1 elementor-widget elementor-widget-text-editor" data-id="2f7b7f1" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p><span style="font-size: 16px; color: var( --e-global-color-text );">Note:-</span></p><p><img class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/13.1.0/svg/1f308.svg" alt="&#x1f308;" />Exciting &#8216;prizes&#8217; for winners<img class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/13.1.0/svg/1f4b8.svg" alt="&#x1f4b8;" /></p><p><img class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/13.1.0/svg/1f33c.svg" alt="&#x1f33c;" /> Participation certificate will be provided to all the participants <img class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/13.1.0/svg/1f33c.svg" alt="&#x1f33c;" /></p><p>For Any Queries contact:-<br /><img class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/13.1.0/svg/1f4f1.svg" alt="&#x1f4f1;" /> 94653 29286 (Sharanjit Singh )<br /><img class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/13.1.0/svg/1f4f1.svg" alt="&#x1f4f1;" /> 94789 64212 (Mehakdeep Singh )</p>						</div>
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f64b.svg" alt="&#x1f64b;" />&#x200d;<img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/2640.svg" alt="&#x2640;" />Hola Amigos<img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f64b.svg" alt="&#x1f64b;" /></p><p>Want to showcase your Model Making skills by making the best out of waste but don&#8217;t know how?</p><p><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4ab.svg" alt="&#x1f4ab;" />Association of Civil Engineering Students <img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4ab.svg" alt="&#x1f4ab;" /> <br />conducting &#8220;<b>SANRACHNA</b>&#8221; (a bridge modelling competition) event under Techno Mela 2023.</p><ul><li>This will be a one-day event in which there will be 2 rounds. <br />The 1st round will be a general questionnaire, including some basic questions related to Traffic engineering and aptitude. This round will be the elimination round; those who will be giving the maximum correct answers will be eligible for the 2nd round.</li><li>In the 2nd round participants will have to make a model of any structure bridge with the materials provided.</li></ul><p><strong> </strong></p><p><strong><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f338.svg" alt="&#x1f338;" /> Event details</strong><strong><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f338.svg" alt="&#x1f338;" /></strong></p><p><strong> </strong><strong><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f5d3.svg" alt="&#x1f5d3;" />Date: &#8211;</strong> 17th March of 2023</p><p><strong> </strong><strong><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f55d.svg" alt="&#x1f55d;" />Time: &#8211;</strong> 10:00 PM onwards</p><p><strong> </strong><strong><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4cd.svg" alt="&#x1f4cd;" />Venue: &#8211;</strong> G 18</p><p><strong>Participant type: &#8211;</strong> Team of 4</p><p> </p><p> </p><p><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f3c6.svg" alt="&#x1f3c6;" />Best 3 Designs of the plot will be rewarded with Trophies<img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f3c6.svg" alt="&#x1f3c6;" /></p><p><strong>NOTE:</strong> Gift Hampers from Bonn and Discount coupons La Pino&#8217;z Pizza will be provided to the Winners</p><p><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f33c.svg" alt="&#x1f33c;" /> Participation certificate will be provided to all the participants <img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f33c.svg" alt="&#x1f33c;" /></p><p> </p><p>For Any Queries contact: &#8211;</p><p><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4f1.svg" alt="&#x1f4f1;" /> 8264240821 (Ayush Sharma)</p><p><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4f1.svg" alt="&#x1f4f1;" /> 90799 17262 (Nabeel Farooqui)</p><p> </p><p> For further updates stay connected on &#8211;</p><p><a href="https://instagram.com/gndec_aces">https://instagram.com/gndec_aces</a></p>						</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b1f7bf0" data-id="b1f7bf0" data-element_type="column">
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7e0b5ab" data-id="7e0b5ab" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-a86d955 elementor-widget elementor-widget-image" data-id="a86d955" data-element_type="widget" data-widget_type="image.default">
+								<div class="elementor-element elementor-element-fdc0566 elementor-widget elementor-widget-image" data-id="fdc0566" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.5.3 - 28-12-2021 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="724" height="1024" src="/wp-content/uploads/2022/05/Design-Mania-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/05/Design-Mania-724x1024.jpg 724w, /wp-content/uploads/2022/05/Design-Mania-212x300.jpg 212w, /wp-content/uploads/2022/05/Design-Mania-768x1086.jpg 768w, /wp-content/uploads/2022/05/Design-Mania-1086x1536.jpg 1086w, /wp-content/uploads/2022/05/Design-Mania-1448x2048.jpg 1448w, /wp-content/uploads/2022/05/Design-Mania-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="724" height="1024" src="/wp-content/uploads/2023/03/Sanrachna-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2023/03/Sanrachna-724x1024.jpg 724w, /wp-content/uploads/2023/03/Sanrachna-212x300.jpg 212w, /wp-content/uploads/2023/03/Sanrachna-768x1086.jpg 768w, /wp-content/uploads/2023/03/Sanrachna-1086x1536.jpg 1086w, /wp-content/uploads/2023/03/Sanrachna-1448x2048.jpg 1448w, /wp-content/uploads/2023/03/Sanrachna-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-7fad7a8 elementor-widget elementor-widget-image" data-id="7fad7a8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="724" height="1024" src="/wp-content/uploads/2023/03/Sanrachna-Rules-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2023/03/Sanrachna-Rules-724x1024.jpg 724w, /wp-content/uploads/2023/03/Sanrachna-Rules-212x300.jpg 212w, /wp-content/uploads/2023/03/Sanrachna-Rules-768x1086.jpg 768w, /wp-content/uploads/2023/03/Sanrachna-Rules-1086x1536.jpg 1086w, /wp-content/uploads/2023/03/Sanrachna-Rules-1448x2048.jpg 1448w, /wp-content/uploads/2023/03/Sanrachna-Rules-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-f4725ea elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f4725ea" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-18f2f70 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="18f2f70" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b2a4e8e" data-id="b2a4e8e" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-29c2e9f" data-id="29c2e9f" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-9f59e77 elementor-align-center elementor-widget elementor-widget-button" data-id="9f59e77" data-element_type="widget" data-widget_type="button.default">
+								<div class="elementor-element elementor-element-d3baaa0 elementor-align-center elementor-widget elementor-widget-button" data-id="d3baaa0" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="http://gdy.club/aces37" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button">
+			<a href="https://forms.gle/twGcuZ3GEATNRC5s6" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Register Now</span>
 		</span>
@@ -97,9 +99,88 @@
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-735144c elementor-widget elementor-widget-text-editor" data-id="735144c" data-element_type="widget" data-widget_type="text-editor.default">
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		<p>The post <a rel="nofollow" href="/sanrachna/">Sanrachna</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/sanrachna/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Techno Plot</title>
+		<link>/technoplot/</link>
+					<comments>/technoplot/#respond</comments>
+		
+		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
+		<pubDate>Tue, 14 Mar 2023 17:38:15 +0000</pubDate>
+				<category><![CDATA[2022-2023]]></category>
+		<category><![CDATA[Competition]]></category>
+		<category><![CDATA[Technical events]]></category>
+		<category><![CDATA[Upcoming Events]]></category>
+		<guid isPermaLink="false">/?p=4185</guid>
+
+					<description><![CDATA[<p>Techno Plot ‍Hola Amigos Want to showcase your talent of designing but don&#8217;t know how? Association of Civil Engineering Students conducting &#8220;TECHNOPLOT&#8221; event under the Techno Mela 2023. This will be a one day event in which participants will have to make 2D floor plan of a house using any CAD software for example: Micro-station, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/technoplot/">Techno Plot</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="4185" class="elementor elementor-4185" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-663c9ce elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="663c9ce" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9ce6f5e" data-id="9ce6f5e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5029a29 elementor-widget elementor-widget-heading" data-id="5029a29" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-							<p><b>General Instructions: &#8211;</b><br />1. Register for the event using this link: http://gdy.club/aces37<br />2. You will be added to the WhatsApp group of the event.<br />3. The Name of the game is (MultiCraft) you can download it from PlayStore or by using this link:<br />For Android:-<br /><a href="https://play.google.com/store/apps/details?id=com.multicraft.game&amp;hl=en_IN&amp;gl=US">https://play.google.com/store/apps/details?id=com.multicraft.game&amp;hl=en_IN&amp;gl=US</a><br />For iOS :-<br /><a href="https://apps.apple.com/ca/app/multicraft-build-and-mine/id1174039276">https://apps.apple.com/ca/app/multicraft-build-and-mine/id1174039276</a><br />4. Design the Civil Engineering Structures in single-player creative mode. Try To Build Your structures in offline mode as the game may contain some ads.</p><p><b> </b></p><p><b>Day 1 : </b>(Demo of game and Explanation of Rules): &#8211;<br />Date &#8211; 11/05/2022<br />Venue &#8211; TCC Hall</p><p><b>Day 2 : </b>( For completion of your Designs )<br />Date &#8211; 12/05/2022</p><p><b>Day 3 : </b>(Winners and prize distribution): &#8211;<br />Date &#8211; 13/05/2022<br />Venue &#8211; TCC Hall</p><p> </p><p><b>Judgment criteria:-</b><br />● Your structure will be judged on the basis of its features when compared to a real structure.<br />● Every detail in your structure will be noticed and points would be given in accordance.<br />● The looks and material used in the structure should also be realistic.</p>						</div>
+			<div class="elementor-heading-title elementor-size-default">Techno Plot</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c7b87a1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c7b87a1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e359de4" data-id="e359de4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3bb2829 elementor-widget elementor-widget-text-editor" data-id="3bb2829" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f64b.svg" alt="&#x1f64b;" />&#x200d;<img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/2640.svg" alt="&#x2640;" />Hola Amigos<img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f64b.svg" alt="&#x1f64b;" /></p><p>Want to showcase your talent of designing but don&#8217;t know how?</p><p><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4ab.svg" alt="&#x1f4ab;" />Association of Civil Engineering Students <img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4ab.svg" alt="&#x1f4ab;" /></p><p>conducting <strong>&#8220;TECHNOPLOT&#8221; </strong>event under the <strong>Techno Mela 2023</strong>.</p><p>This will be a one day event in which participants will have to make 2D floor plan of a house using any CAD software for example: Micro-station, AutoCAD or etc.</p><p>(You can use computers available in Computational Lab)</p><p> </p><p><strong><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f338.svg" alt="&#x1f338;" /> Event details</strong><strong><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f338.svg" alt="&#x1f338;" /></strong></p><p><strong> </strong><strong><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f5d3.svg" alt="&#x1f5d3;" />Date: &#8211;</strong> 16th March of 2023</p><p><strong> </strong><strong><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f55d.svg" alt="&#x1f55d;" />Time: &#8211;</strong> 12:00 PM onwards</p><p><strong> </strong><strong><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4cd.svg" alt="&#x1f4cd;" />Venue: &#8211;</strong> CAD Lab </p><p><strong>Participant type: &#8211;</strong> Solo</p><p><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f3c6.svg" alt="&#x1f3c6;" />Best 3 Designs of the plot will be rewarded with Trophies<img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f3c6.svg" alt="&#x1f3c6;" /></p><p> </p><p><strong>NOTE:</strong> Gift Hampers from Bonn and Discount coupons La Pino&#8217;z Pizza will be provided to the Winners</p><p><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f33c.svg" alt="&#x1f33c;" /> Participation certificate will be provided to all the participants <img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f33c.svg" alt="&#x1f33c;" /></p><p> </p><p>For Any Queries contact: &#8211;</p><p><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4f1.svg" alt="&#x1f4f1;" /> 8264240821 (Ayush Sharma)</p><p><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4f1.svg" alt="&#x1f4f1;" /> 90799 17262 (Nabeel Farooqui)</p><p> For further updates stay connected on &#8211;</p><p><a href="https://instagram.com/gndec_aces">https://instagram.com/gndec_aces</a></p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7e0b5ab" data-id="7e0b5ab" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-fdc0566 elementor-widget elementor-widget-image" data-id="fdc0566" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="899" height="1024" src="/wp-content/uploads/2023/03/Techno-Plot-899x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2023/03/Techno-Plot-899x1024.jpg 899w, /wp-content/uploads/2023/03/Techno-Plot-263x300.jpg 263w, /wp-content/uploads/2023/03/Techno-Plot-768x875.jpg 768w, /wp-content/uploads/2023/03/Techno-Plot-1349x1536.jpg 1349w, /wp-content/uploads/2023/03/Techno-Plot.jpg 1440w" sizes="(max-width: 899px) 100vw, 899px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-7fad7a8 elementor-widget elementor-widget-image" data-id="7fad7a8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="899" height="1024" src="/wp-content/uploads/2023/03/Techno-Plot-Rules-899x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2023/03/Techno-Plot-Rules-899x1024.jpg 899w, /wp-content/uploads/2023/03/Techno-Plot-Rules-263x300.jpg 263w, /wp-content/uploads/2023/03/Techno-Plot-Rules-768x875.jpg 768w, /wp-content/uploads/2023/03/Techno-Plot-Rules-1349x1536.jpg 1349w, /wp-content/uploads/2023/03/Techno-Plot-Rules.jpg 1440w" sizes="(max-width: 899px) 100vw, 899px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a4acd2f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a4acd2f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bed46ff" data-id="bed46ff" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ddcc8a4 elementor-align-center elementor-widget elementor-widget-button" data-id="ddcc8a4" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://forms.gle/P9XHFwa1LvspBbjE8" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Register Now</span>
+		</span>
+					</a>
+		</div>
+				</div>
 				</div>
 					</div>
 		</div>
@@ -107,9 +188,11 @@
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="/design-mania-2/">Desgn Mania</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
+		<p>The post <a rel="nofollow" href="/technoplot/">Techno Plot</a> appeared first on <a rel="nofollow" href="">Association of Civil Engineering Students</a>.</p>
 ]]></content:encoded>
 					
+					<wfw:commentRss>/technoplot/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -146,7 +229,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-8ec7654 elementor-widget elementor-widget-image" data-id="8ec7654" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="791" height="1024" src="/wp-content/uploads/2022/03/International-Womens-day-1_page-0001-791x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/03/International-Womens-day-1_page-0001-791x1024.jpg 791w, /wp-content/uploads/2022/03/International-Womens-day-1_page-0001-232x300.jpg 232w, /wp-content/uploads/2022/03/International-Womens-day-1_page-0001-768x994.jpg 768w, /wp-content/uploads/2022/03/International-Womens-day-1_page-0001-1187x1536.jpg 1187w, /wp-content/uploads/2022/03/International-Womens-day-1_page-0001.jpg 1275w" sizes="(max-width: 791px) 100vw, 791px" />															</div>
+															<img decoding="async" width="791" height="1024" src="/wp-content/uploads/2022/03/International-Womens-day-1_page-0001-791x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="/wp-content/uploads/2022/03/International-Womens-day-1_page-0001-791x1024.jpg 791w, /wp-content/uploads/2022/03/International-Womens-day-1_page-0001-232x300.jpg 232w, /wp-content/uploads/2022/03/International-Womens-day-1_page-0001-768x994.jpg 768w, /wp-content/uploads/2022/03/International-Womens-day-1_page-0001-1187x1536.jpg 1187w, /wp-content/uploads/2022/03/International-Womens-day-1_page-0001.jpg 1275w" sizes="(max-width: 791px) 100vw, 791px" />															</div>
 				</div>
 					</div>
 		</div>
